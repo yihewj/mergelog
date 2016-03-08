@@ -1,0 +1,23 @@
+=aplogcat= Dumping /data/aplogd/Boot-0000000008_Set-0000000001_Stream-m.txt.gz to ./aplogcat-main.txt
+02-14 03:30:57.901   233   233 W auditd  : type=2000 audit(0.0:1): initialized
+02-14 03:31:02.706   245   245 I /system/bin/tzdatacheck: tzdata file /data/misc/zoneinfo/current/tzdata does not exist. No action required.
+02-14 03:31:02.847   256   256 D BHD     : Battery Health Daemon start!
+02-14 03:31:02.849   256   256 D BHD     : USB = /sys/class/power_supply/usb
+02-14 03:31:02.850   256   256 D BHD     : BATT = /sys/class/power_supply/battery
+02-14 03:31:02.850   256   256 E BHD     : acPath not found using default
+02-14 03:31:02.851   256   256 E BHD     : Battery not valid
+02-14 03:31:02.851   256   256 E BHD     : Failed to validate battery after 1 attempts
+02-14 03:31:02.851   256   256 D BHD     : Allowing invalid battery
+02-14 03:31:02.852   256   256 D BHD     : NVM Read - Opened NVM file /pds/batt_health/batt-0123456789abcdef_0
+02-14 03:31:02.853   256   256 D BHD     : NVM Read - Read header, version = 5, file write count = 0, time = Thu Nov  5 13:58:26 2015
+02-14 03:31:02.853   256   256 D BHD     : NVM Read - Opened NVM file /pds/batt_health/batt-0123456789abcdef_1
+02-14 03:31:02.854   256   256 D BHD     : NVM Read - Read header, version = 5, file write count = 1, time = Mon Nov 16 19:07:50 2015
+02-14 03:31:02.854   256   256 D BHD     : NVM Load - Found newest file, index to use = 1
+02-14 03:31:02.854   256   256 D BHD     : State - EEPROM id = 0123456789abcdef; capacity = 1750
+12-17 10:50:42.948  1937  2426 I KPI-6PA-ID-2: 1875009 motion event ACTION_UP done=1 dropReason=0
+12-17 10:50:42.949   386   386 E SELinux : avc:  denied  { dump_backtrace } for  scontext=u:r:dumpstate:s0 tcontext=u:r:mm-qcamerad:s0 tclass=debuggerd
+12-17 10:50:42.955  1311  1318 I art     : Thread[2,tid=1318,WaitingInMainSignalCatcherLoop,Thread*=0xb88c6c08,peer=0x12c810a0,"Signal Catcher"]: reacting to signal 3
+12-17 10:50:42.958  2492  2492 D PhoneStatusBar: disable: < expand ICONS alerts SYSTEM_INFO back HOME RECENT clock SEARCH quick_settings >
+
+=aplogcat= Finished dumping /data/aplogd/Boot-0000000008_Set-0000000003_Stream-m.txt
+

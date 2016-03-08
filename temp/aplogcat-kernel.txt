@@ -1,0 +1,17 @@
+=aplogcat= Dumping /data/aplogd/Boot-0000000008_Set-0000000001_Stream-k.txt.gz to ./aplogcat-kernel.txt
+02-14 03:31:02.644     0     0 I         : [    0.000000,0] Booting Linux on physical CPU 0
+02-14 03:31:02.644     0     0 I         : [    0.000000,0] Initializing cgroup subsys cpu
+02-14 03:31:02.644     0     0 I         : [    0.000000,0] Linux version 3.4.42-eng-g2f3b991 (hudsoncm@ilclbld81) (gcc version 4.8 (GCC) ) #1 SMP PREEMPT Sun Dec 13 23:33:59 CST 2015
+02-14 03:31:02.644     0     0 W         : [    0.000000,0] CPU: ARMv7 Processor [410fc073] revision 3 (ARMv7), cr=10c5387d
+02-14 03:31:02.644     0     0 W         : [    0.000000,0] CPU: PIPT / VIPT nonaliasing data cache, VIPT aliasing instruction cache
+12-17 09:53:05.002     0     0 W         : [  237.136689,0] done.
+12-17 09:53:05.002     0     0 I         : [  237.137052,0] PM: suspend exit 2015-12-17 04:23:04.903376911 UTC
+12-17 09:53:10.685     0     0 I         : [  237.408890,0] PM: suspend entry 2015-12-17 04:23:05.175209773 UTC
+12-17 09:53:10.685     0     0 D         : [  237.409090,0] PM: Preparing system for mem sleep
+12-17 09:53:10.685     0     0 W         : [  237.409159,0] Freezing user space processes ... (elapsed 0.03 seconds) done.
+12-17 09:53:10.685     0     0 W         : [  237.440939,0] Freezing remaining freezable tasks ... (elapsed 0.01 seconds) done.
+12-17 09:53:10.685     0     0 D         : [  237.460583,0] PM: Entering mem sleep
+12-17 09:53:10.685     0     0 W         : [  237.460596,0] Suspending console(s) (use no_console_suspend to debug)
+
+=aplogcat= Finished dumping /data/aplogd/Boot-0000000008_Set-0000000003_Stream-k.txt
+

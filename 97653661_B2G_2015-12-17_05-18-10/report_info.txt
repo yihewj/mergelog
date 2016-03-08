@@ -1,0 +1,39 @@
+{
+    "request": {
+        "devInfo": {
+            "totalMem": 277,
+            "VERSION.SDK_INT": "23",
+            "uid": "NTIL1C0162",
+            "softwareVersion": "thea_retbr_ds-userdebug 6.0 MPB24.65-27 173 intcfg,test-keys",
+            "bpVersion": "M8926_309101.02.03.19R THEA_LATAM_DSDS_CUST",
+            "PRODUCT": "thea_retbr_ds",
+            "MODEL": "XT1078",
+            "BOARD": "MSM8226",
+            "BRAND": "motorola",
+            "SERIAL": "NTIL1C0162",
+            "TELEPHONY_DEVICE_ID": "353310060000029",
+            "WIFI_MAC": "80:6c:1b:18:a0:1b",
+            "TYPE": "userdebug",
+            "BUILDID": "MPB24.65-27",
+            "BUILDFINGERPRINT": "motorola\/thea_retbr_ds\/thea_umtsds:6.0\/MPB24.65-27\/173:userdebug\/intcfg,test-keys"
+        },
+        "userInfo": {
+            "email": "vijaysim@motorola.com",
+            "first_name": "vijaysimha",
+            "last_name": "pothapalu",
+            "phone": "9972226988",
+            "coreid": "vijaysim"
+        },
+        "survey": [],
+        "category": "A:App Not Responding",
+        "summary": "system_app_anr",
+        "description": "Process: com.motorola.tools.batterytracer\nFlags: 0x1888be45\nPackage: com.motorola.tools.batterytracer v510 (5.1.0)\nSubject: Broadcast of Intent { act=android.intent.action.SCREEN_OFF flg=0x50000010 }\nBuild: motorola\/thea_retbr_ds\/thea_umtsds:6.0\/MPB24.65-2",
+        "engineer_mode": true,
+        "bug2go_ver_creation": "04.06.024",
+        "bug2go_ver_upload": "04.06.024",
+        "uploadDate": 1450329490489,
+        "createJira": false,
+        "email_notification": true,
+        "partial": false
+    }
+}

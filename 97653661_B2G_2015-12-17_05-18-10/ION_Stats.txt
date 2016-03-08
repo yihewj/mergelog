@@ -1,0 +1,98 @@
+
+
+ File contents of - check_all_bufs 
+            heap       buffer         size      ref cnt            allocator    references
+          system     c1f71000         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     c1f71a80       175000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     c1f71b40         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     c1f71c00       175000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     c2bf1240        22000            4              390-105    390-105, video_client-7, missing x 2
+          system     c2e88780        4d000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     c2f820c0       152000            4              390-117    video_client-8, 390-117, missing x 2
+          system     c3171300         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     c4bb1900       152000            4              390-115    video_client-8, 390-115, missing x 2
+          system     c4d57600        22000            4              390-104    video_client-7, 390-104, missing x 2
+          system     c51be900        22000            4              390-106    390-106, video_client-7, missing x 2
+          system     c5268480         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     c5268600       3c0000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     c6964e40        4e000            2       video_client-8    video_client-8, missing x 1
+          system     c7261600       259000            2       video_client-1    video_client-1, missing x 1
+          system     c72616c0         1000            2       video_client-1    video_client-1, missing x 1
+          system     c72619c0         1000            2       video_client-1    video_client-1, missing x 1
+          system     d0813480         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     d0cf0cc0         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     d0dd8540         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+           audio     d0f5bb40         1000            1       audio_client-1    audio_client-1, 
+          system     d128cc00       980000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     d186bd80       398000            1                363-1    orphaned_by: 363 (surfaceflinger)
+           audio     d1ead6c0         1000            1       audio_client-2    audio_client-2, 
+          system     d203f9c0         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     d217d180         1000            4              390-118    video_client-8, 390-118, missing x 2
+          system     d621b900         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     d629d0c0         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     d6857b40         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     d6e6b9c0        1f000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     d6e6bd80         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     d7185e40         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     d9cad240         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     d9cad540        1f000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     da4f5480       398000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     da4f5900         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     da4f5f00       398000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     dab7d240         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     db661180       152000            4              390-114    video_client-8, 390-114, missing x 2
+          system     dc4710c0        22000            3                363-1    video_client-8, missing x 2
+          system     dc471300        22000            3                363-1    video_client-8, missing x 2
+          system     dc471840         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     dc4719c0         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     dc471b40         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     dc471cc0        22000            1                363-1    orphaned_by: 3685 (kworker/u:12)
+          system     dc66f180        22000            3                363-1    video_client-8, missing x 2
+          system     dc66f900       398000            3                363-1    fd900000.qcom,mdss_mdp-0, missing x 2
+          system     dc66fcc0         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     de197780       398000            3                363-1    fd900000.qcom,mdss_mdp-0, missing x 2
+          system     de1d3900         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     deb43300        1d000            4              390-111    390-111, video_client-7, missing x 2
+          system     df6303c0        1d000            4              390-112    390-112, video_client-7, missing x 2
+          system     df7d4180        22000            4              390-107    390-107, video_client-7, missing x 2
+          system     df7d4480        22000            4              390-108    390-108, video_client-7, missing x 2
+          system     df7d4c00        1d000            4              390-109    390-109, video_client-7, missing x 2
+          system     df8b0240       39b000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     dfbc33c0        22000            3                363-1    video_client-8, missing x 2
+          system     dfebd6c0       398000            1                363-1    orphaned_by: 932 (mdss_fb0)
+          system     e1a4c780        1d000            4              390-110    390-110, video_client-7, missing x 2
+          system     e1b1f0c0         d000            2       video_client-7    video_client-7, missing x 1
+          system     e1b549c0       152000            4              390-116    video_client-8, 390-116, missing x 2
+          system     e1ba9a80       39b000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     e1ba9cc0         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          qsecom     e1d1d6c0         5000            3                899-1    899-1, qseecom-kernel-0, missing x 1
+          system     e1ea1a80         1000            2       video_client-8    video_client-8, missing x 1
+          qsecom     e2020e40         5000            3                899-0    899-0, qseecom-kernel-0, missing x 1
+          qsecom     e20279c0         5000            3                899-2    899-2, qseecom-kernel-0, missing x 1
+          system     e20370c0         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     e20379c0       398000            1                363-1    orphaned_by: 932 (mdss_fb0)
+          system     e2037b40       398000            1                363-1    orphaned_by: 363 (surfaceflinger)
+           pil_1     e2072180       500000            1                pil-0    pil-0, 
+          system     e20bbe40        3a000            2       video_client-7    video_client-7, missing x 1
+          system     e20ff480       175000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     e2630540        4d000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          qsecom     e28019c0         5000            3                899-3    899-3, qseecom-kernel-0, missing x 1
+           audio     e2835900        6a000            3                390-0    audio_acdb_client-0, 390-0, missing x 1
+          qsecom     e2838cc0         1000            3                454-0    454-0, qseecom-kernel-0, missing x 1
+          system     e2985840         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          system     e3574000         1000            1                363-1    orphaned_by: 363 (surfaceflinger)
+          qsecom     e357da80         3000            3                399-0    399-0, qseecom-kernel-0, missing x 1
+          qsecom     e359d540        22000            1     qseecom-kernel-0    qseecom-kernel-0, 
+           audio     e3997480         1000            1            voc_cal-0    voc_cal-0, 
+           audio     e3997600         2000            1        voip_client-0    voip_client-0, 
+           audio     e39976c0         1000            1        voip_client-1    voip_client-1, 
+           pil_1     e3a90240      1400000            1                pil-0    pil-0, 
+           audio     e3a96240         1000            1        adsprpc-smd-0    adsprpc-smd-0, 
+          qsecom     e3de49c0         8000            1           qsee_log-0    qsee_log-0, 
+          system     e4d316c0       708000            3                363-1    fd900000.qcom,mdss_mdp-0, missing x 2
+
+
+ File contents of - clients 
+
+
+ File contents of - heaps 

@@ -1,0 +1,21 @@
+=aplogcat= Dumping /data/aplogd/Boot-0000000008_Set-0000000001_Stream-s.txt.gz to ./aplogcat-system.txt
+02-14 03:31:02.728   240   240 I vold    : Vold 3.0 (the awakening) firing up
+02-14 03:31:02.728   240   240 V vold    : Detected support for: ext4 f2fs vfat
+02-14 03:31:02.794   240   247 V vold    : /system/bin/sgdisk
+02-14 03:31:02.794   240   247 V vold    :     --android-dump
+02-14 03:31:02.794   240   247 V vold    :     /dev/block/vold/disk:179,64
+02-14 03:31:02.958   240   247 V vold    : DISK mbr
+02-14 03:31:02.958   240   247 V vold    : PART 1 b
+02-14 03:31:02.959   240   247 D vold    : EncryptedVolume: eCryptfs is not supported by the kernel
+12-17 09:43:23.694   363   363 I SFPerfTracer: frame performance triggers enabled (level = 5)
+12-17 09:43:23.694   363   363 I SFPerfTracer:   frame compose trigger threshold: 16.667 ms
+12-17 09:43:23.694   363   363 I SFPerfTracer:   frame post trigger threshold: 16.667 ms
+12-17 09:43:23.694   363   363 I SFPerfTracer:   frame render trigger threshold: 25.000 ms
+12-17 10:50:40.521  1937  2470 D DisplayPowerState: Updating screen state: state=ON, backlight=95, button backlight = 0
+12-17 10:50:40.522  1937  1983 D DisplayPowerState: Screen ready
+12-17 10:50:40.535  1937  1983 D DisplayPowerState: setScreenBrightness: brightness=96
+12-17 10:50:40.535  1937  1983 D DisplayPowerState: Requesting new screen state: state=ON, backlight=96
+12-17 10:50:40.535  1937  1983 D DisplayPowerState: Screen not ready
+
+=aplogcat= Finished dumping /data/aplogd/Boot-0000000008_Set-0000000003_Stream-s.txt
+

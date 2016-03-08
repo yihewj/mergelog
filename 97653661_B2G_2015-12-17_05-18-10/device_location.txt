@@ -1,0 +1,20 @@
+Network Information:
+	Network Operator(MCC+MNC) : 40445
+	Network Operator Name : airtel
+	ISO country code : in
+	Wifi Connected : true
+	Wifi Mac Address : 80:6c:1b:18:a0:1b
+	Wifi BSSID : 28:cf:da:b9:7c:9b
+	Wifi SSID : "AppleNetwork"
+
+Device Cell Location Information:
+	Phone Type : GSM
+	GSM Cell ID : 27534831
+	GSM Area Code : 34204
+
+Device Location Information:
+	Provider : network
+	Latitude : 12.9795054
+	Longitude : 77.6587778
+	Time : 1450329507038(17 Dec 2015 05:18:27 GMT)
+

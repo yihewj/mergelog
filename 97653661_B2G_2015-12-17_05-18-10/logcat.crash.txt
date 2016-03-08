@@ -1,0 +1,9 @@
+12-17 10:31:40.527 21007 21032 E AndroidRuntime: FATAL EXCEPTION: download-manager-thread
+12-17 10:31:40.527 21007 21032 E AndroidRuntime: Process: com.android.vending, PID: 21007
+12-17 10:31:40.527 21007 21032 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String android.net.Uri.toString()' on a null object reference
+12-17 10:31:40.527 21007 21032 E AndroidRuntime: 	at com.google.android.finsky.download.DownloadQueueImpl$7.run(DownloadQueueImpl.java:1552)
+12-17 10:31:40.527 21007 21032 E AndroidRuntime: 	at com.google.android.finsky.download.DownloadManagerLegacyImpl$2.run(DownloadManagerLegacyImpl.java:179)
+12-17 10:31:40.527 21007 21032 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:746)
+12-17 10:31:40.527 21007 21032 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+12-17 10:31:40.527 21007 21032 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:148)
+12-17 10:31:40.527 21007 21032 E AndroidRuntime: 	at android.os.HandlerThread.run(HandlerThread.java:61)

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mergelog:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mergelog_jar</output-path>
+    <root id="archive" name="mergelog.jar">
+      <element id="module-output" name="mergelog" />
+    </root>
+  </artifact>
+</component>

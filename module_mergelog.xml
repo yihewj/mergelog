@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_mergelog" default="compile.module.mergelog">
+  <dirname property="module.mergelog.basedir" file="${ant.file.module_mergelog}"/>
+  
+  <property name="module.jdk.home.mergelog" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.mergelog" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.mergelog" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.mergelog" value="-encoding windows-1252 -source 1.7 ${compiler.args}"/>
+  
+  <property name="mergelog.output.dir" value="${module.mergelog.basedir}/out/production/mergelog"/>
+  <property name="mergelog.testoutput.dir" value="${module.mergelog.basedir}/out/test/mergelog"/>
+  
+  <path id="mergelog.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="mergelog.module.production.classpath">
+    <path refid="${module.jdk.classpath.mergelog}"/>
+  </path>
+  
+  <path id="mergelog.runtime.production.module.classpath">
+    <pathelement location="${mergelog.output.dir}"/>
+  </path>
+  
+  <path id="mergelog.module.classpath">
+    <path refid="${module.jdk.classpath.mergelog}"/>
+    <pathelement location="${mergelog.output.dir}"/>
+  </path>
+  
+  <path id="mergelog.runtime.module.classpath">
+    <pathelement location="${mergelog.testoutput.dir}"/>
+    <pathelement location="${mergelog.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.mergelog">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.mergelog">
+    <patternset refid="excluded.from.module.mergelog"/>
+  </patternset>
+  
+  <path id="mergelog.module.sourcepath">
+    <dirset dir="${module.mergelog.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.mergelog" depends="compile.module.mergelog.production,compile.module.mergelog.tests" description="Compile module mergelog"/>
+  
+  <target name="compile.module.mergelog.production" description="Compile module mergelog; production classes">
+    <mkdir dir="${mergelog.output.dir}"/>
+    <javac destdir="${mergelog.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.mergelog}/javac">
+      <compilerarg line="${compiler.args.mergelog}"/>
+      <bootclasspath refid="mergelog.module.bootclasspath"/>
+      <classpath refid="mergelog.module.production.classpath"/>
+      <src refid="mergelog.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.mergelog"/>
+    </javac>
+    
+    <copy todir="${mergelog.output.dir}">
+      <fileset dir="${module.mergelog.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.mergelog.tests" depends="compile.module.mergelog.production" description="compile module mergelog; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.mergelog" description="cleanup module">
+    <delete dir="${mergelog.output.dir}"/>
+    <delete dir="${mergelog.testoutput.dir}"/>
+  </target>
+</project>

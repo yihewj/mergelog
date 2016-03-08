@@ -1,0 +1,17 @@
+=aplogcat= Dumping /data/aplogd/Boot-0000000008_Set-0000000001_Stream-r.txt.gz to ./aplogcat-radio.txt
+02-14 03:31:03.768   387   387 D RILD    : **RIL Daemon Started**
+02-14 03:31:03.768   387   387 D RILD    : **RILd param count=1**
+02-14 03:31:03.769   387   387 E RILD    : core file enabled, old limit was 0:0
+12-17 09:43:22.594   788   788 D RILD    : **RIL Daemon Started**
+12-17 09:43:22.594   788   788 D RILD    : **RILd param count=1**
+12-17 09:43:22.594   788   788 E RILD    : core file enabled, old limit was 0:0
+12-17 09:43:22.701   806   806 D RILD    : **RIL Daemon Started**
+12-17 10:50:40.764  3104  3129 D SubscriptionController: [getActiveSubIdList] X subIdArr.length=1
+12-17 10:50:41.580   788  2063 W RILQ    : (0/788): RIL[0][qmi_cb] qcril_event_queue: RID 0 MID 0 Queued event QCRIL_EVT_QMI_NAS_HANDLE_INDICATIONS (20 bytes)(obj 0xb89bb730)
+12-17 10:50:41.580   788  1007 W RILQ    : (0/788): RIL[0][event] qcril_event_main: 1 items on queue
+12-17 10:50:41.581   788  1007 W RILQ    : (0/788): RIL[0][event] qcril_event_main: RID 0 MID 0 De-queued event QCRIL_EVT_QMI_NAS_HANDLE_INDICATIONS (655385)(obj 0xb89bb730)
+12-17 10:50:41.581   788  1007 W RILQ    : (0/788): RIL[0][event] qcril_process_event: RIL <--- QCRIL_EVT_QMI_NAS_HANDLE_INDICATIONS(655385), RID 0, MID 0 --- AMSS
+12-17 10:50:41.582   788  1007 W RILQ    : (0/788): RIL[0][event] qcril_send_unsol_response_epilog: UI <--- RIL_UNSOL_SIGNAL_STRENGTH (1009) --- RIL [RID 0, Len 56, (null)]
+
+=aplogcat= Finished dumping /data/aplogd/Boot-0000000008_Set-0000000003_Stream-r.txt
+

@@ -1,0 +1,26 @@
+I|10:50:43:673|  4287|  4287|                    aplogcat.cpp| 761| sMaxBootIndex=8; sMinBootIndex=8
+D|10:50:43:674|  4287|  4287|                     LogFile.cpp|  37| Skipping aplogd-log.txt; format mismatch
+D|10:50:43:675|  4287|  4287|                     LogFile.cpp|  37| Skipping lastbootuuid; format mismatch
+D|10:50:43:675|  4287|  4287|                     LogFile.cpp|  37| Skipping bootindex; format mismatch
+D|10:50:43:691|  4287|  4287|                     LogFile.cpp|  37| Skipping aplogd-log.bak.txt; format mismatch
+Dumping /data/aplogd/Boot-0000000008_Set-0000000001_Stream-m.txt.gz to ./aplogcat-main.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000002_Stream-m.txt.gz to ./aplogcat-main.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000003_Stream-m.txt to ./aplogcat-main.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000001_Stream-r.txt.gz to ./aplogcat-radio.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000002_Stream-r.txt.gz to ./aplogcat-radio.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000003_Stream-r.txt to ./aplogcat-radio.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000001_Stream-s.txt.gz to ./aplogcat-system.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000002_Stream-s.txt.gz to ./aplogcat-system.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000003_Stream-s.txt to ./aplogcat-system.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000001_Stream-e.txt.gz to ./aplogcat-events.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000002_Stream-e.txt.gz to ./aplogcat-events.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000003_Stream-e.txt to ./aplogcat-events.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000001_Stream-k.txt.gz to ./aplogcat-kernel.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000002_Stream-k.txt.gz to ./aplogcat-kernel.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000003_Stream-k.txt to ./aplogcat-kernel.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000001_Stream-c.txt.gz to ./aplogcat-crash.txt
+gzread() returned no bytes
+Dumping /data/aplogd/Boot-0000000008_Set-0000000002_Stream-c.txt.gz to ./aplogcat-crash.txt
+Dumping /data/aplogd/Boot-0000000008_Set-0000000003_Stream-c.txt to ./aplogcat-crash.txt
+gzread() returned no bytes
+Dumped 27360 KB

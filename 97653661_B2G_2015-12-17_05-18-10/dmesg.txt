@@ -1,0 +1,1746 @@
+ext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  810.282438,0] type=1400 audit(1450328578.190:153): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  810.375453,0] type=1400 audit(1450328578.280:154): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  810.577676,0] type=1400 audit(1450328578.480:155): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  810.671386,1] type=1400 audit(1450328578.570:156): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  810.879222,0] type=1400 audit(1450328578.780:157): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  810.989126,0] type=1400 audit(1450328578.890:158): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  811.218733,0] type=1400 audit(1450328579.120:159): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  811.314189,0] type=1400 audit(1450328579.220:160): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  811.516358,0] type=1400 audit(1450328579.420:161): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  811.617917,0] type=1400 audit(1450328579.520:162): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  811.821360,0] type=1400 audit(1450328579.720:163): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  811.914420,0] type=1400 audit(1450328579.820:164): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  812.099045,1] type=1400 audit(1450328580.000:165): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  812.248739,1] type=1400 audit(1450328580.150:166): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  812.510202,1] bma2x2_irq_work_func, status = 0x80
+[  812.529702,1] tapan_codec_chargepump_vdd_event: event = 8
+[  812.553871,1] type=1400 audit(1450328580.460:167): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  812.676370,1] type=1400 audit(1450328580.580:168): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  812.915768,1] type=1400 audit(1450328580.820:169): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  813.015081,1] type=1400 audit(1450328580.920:170): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  813.248182,1] type=1400 audit(1450328581.150:171): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  813.351481,1] type=1400 audit(1450328581.250:172): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  813.592376,2] type=1400 audit(1450328581.490:173): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  813.702492,1] type=1400 audit(1450328581.610:174): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  813.974927,1] type=1400 audit(1450328581.880:175): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  814.087308,1] type=1400 audit(1450328581.990:176): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  814.339355,1] type=1400 audit(1450328582.240:177): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  814.383381,0] tapan_codec_chargepump_vdd_event: event = 1
+[  814.447751,1] type=1400 audit(1450328582.350:178): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  814.681235,1] type=1400 audit(1450328582.580:179): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  814.796401,3] type=1400 audit(1450328582.690:180): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  815.031301,1] type=1400 audit(1450328582.930:181): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  815.133916,1] type=1400 audit(1450328583.040:182): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  815.381584,1] type=1400 audit(1450328583.280:183): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  815.487512,1] type=1400 audit(1450328583.390:184): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  815.752362,1] type=1400 audit(1450328583.650:185): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  815.849638,1] type=1400 audit(1450328583.750:186): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  816.060783,1] type=1400 audit(1450328583.960:187): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  816.167679,2] type=1400 audit(1450328584.070:188): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  816.290542,0] event_handler: reclaimed all bufs
+[  816.391881,1] type=1400 audit(1450328584.290:189): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  816.516848,1] type=1400 audit(1450328584.420:190): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  816.836868,1] type=1400 audit(1450328584.730:191): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  816.924394,1] type=1400 audit(1450328584.830:192): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  817.137217,1] type=1400 audit(1450328585.040:193): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  817.234347,1] type=1400 audit(1450328585.140:194): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  817.470151,1] type=1400 audit(1450328585.370:195): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  817.572402,1] type=1400 audit(1450328585.470:196): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  817.778554,1] type=1400 audit(1450328585.680:197): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  817.924969,1] type=1400 audit(1450328585.830:198): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  818.302423,1] type=1400 audit(1450328586.200:199): avc: denied { ioctl } for uid=1000 pid=3096 comm="Binder_8" path="socket:[71304]" dev="sockfs" ino=71304 ioctlcmd=7704 scontext=u:r:system_server:s0 tcontext=u:r:dumpstate:s0 tclass=unix_stream_socket permissive=0
+[  819.251740,0] healthd: battery l=95 v=4083 t=40.5 h=2 st=3 c=871 chg=
+[  819.354066,3] healthd: battery l=95 v=4065 t=40.5 h=2 st=3 c=823 chg=
+[  819.493622,0] tapan_codec_chargepump_vdd_event: event = 8
+[  819.552506,0] tapan_codec_chargepump_vdd_event: event = 1
+[  822.617535,0] event_handler: reclaimed all bufs
+[  823.531198,3] binder: 24283:24293 refcount change on invalid ref 20
+[  823.835663,2] binder: 24283:24314 refcount change on invalid ref 20
+[  823.835762,2] binder: 24283:24314 refcount change on invalid ref 20
+[  826.030028,1] init: Service 'dumpstate' (pid 21442) exited with status 0
+[  826.848052,3] tapan_codec_chargepump_vdd_event: event = 8
+[  838.515794,3] healthd: battery l=95 v=4040 t=43.4 h=2 st=3 c=1223 chg=
+[  838.566941,3] healthd: battery l=95 v=4028 t=43.4 h=2 st=3 c=1229 chg=
+[  839.567758,0] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 3 reasonCode: 400
+[  839.567916,0] wlan: [2467:F :CTL] fb080eb4: 160
+[  839.568000,0] wlan: [2467:F :CTL] fb080e20: 10ea500
+[  839.568142,0] wlan: [2467:F :CTL] fb08040c: 0
+[  839.568223,0] wlan: [2467:F :CTL] fb0821b8: 8f
+[  839.568300,0] wlan: [2467:F :CTL] fb013c50: 0
+[  839.568438,0] wlan: [2467:F :CTL] fb013c5c: 12
+[  839.568517,0] wlan: [2467:F :CTL] fb013d38: 8c
+[  839.568659,0] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[  839.568745,0] wlan: [2467:F :CTL] fb0801d0: 32
+[  843.439239,0] send sigkill to 21510 (d.process.media), adj 1000, size 11928
+[  843.563654,1] send sigkill to 21626 (android.vending), adj 1000, size 12760
+[  843.593118,1] send sigkill to 21337 (e.process.gapps), adj 1000, size 10647
+[  843.626773,0] send sigkill to 24093 (id.printspooler), adj 1000, size 9310
+[  844.602871,0] qpnp_chg_usb_usbin_valid_irq_handler: Start Chrg OCV calculation
+[  844.603111,0] msm_otg f9a55000.usb: Vbus state = 1
+[  844.607734,2] msm_otg f9a55000.usb: USB exited from low power mode
+[  844.896843,0] qpnp_chrg_ocv_work: High SOC or Low SOC - NO CHRG
+[  844.997519,1] healthd: battery l=95 v=3995 t=44.8 h=2 st=3 c=1254 chg=
+[  845.002748,3] wlan: [2467:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+[  845.032419,2] msm_otg f9a55000.usb: chg_type = USB_SDP_CHARGER
+[  845.034921,2] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESET_EVENT received
+[  845.035021,2] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_CONNECT_EVENT received
+[  845.238391,0] msm_otg f9a55000.usb: Avail curr from USB = 100
+[  845.238762,0] android_work: android_work: did not send uevent (0 0   (null))
+[  845.274335,3] healthd: battery l=95 v=3993 t=44.9 h=2 st=3 c=1238 chg=
+[  845.276210,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[  845.283305,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[  845.306147,0] send sigkill to 21551 (d.process.acore), adj 764, size 10854
+[  845.359121,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[  845.369333,0] android_usb gadget: high-speed config #1: fe8050c8.android_usb
+[  845.369551,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[  845.422435,0] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+[  845.593178,1] healthd: battery l=95 v=4072 t=45.0 h=2 st=3 c=665 chg=u
+[  845.739375,1] send sigkill to 21538 (earchbox:search), adj 647, size 16611
+[  845.983849,0] healthd: battery l=95 v=4083 t=45.1 h=2 st=3 c=739 chg=u
+[  846.301048,3] healthd: battery l=94 v=4070 t=45.3 h=2 st=2 c=642 chg=u
+[  846.435224,2] healthd: battery l=94 v=4083 t=45.5 h=2 st=2 c=709 chg=u
+[  846.515484,1] mtp_open
+[  846.600141,1] healthd: battery l=94 v=4073 t=45.6 h=2 st=2 c=694 chg=u
+[  846.773291,1] healthd: battery l=94 v=4079 t=45.7 h=2 st=2 c=736 chg=u
+[  846.844541,1] healthd: battery l=94 v=4082 t=45.7 h=2 st=2 c=684 chg=u
+[  846.897527,3] healthd: battery l=94 v=4071 t=45.7 h=2 st=2 c=726 chg=u
+[  846.947784,3] healthd: battery l=94 v=4075 t=45.8 h=2 st=2 c=750 chg=u
+[  846.998481,0] healthd: battery l=94 v=4090 t=45.8 h=2 st=2 c=733 chg=u
+[  847.077483,1] healthd: battery l=94 v=4069 t=45.8 h=2 st=2 c=671 chg=u
+[  848.236969,3] send sigkill to 21412 (motorola.bug2go), adj 647, size 15846
+[  849.784775,2] send sigkill to 24550 (.android.chrome), adj 647, size 9609
+[  849.834434,2] send sigkill to 24591 (e.process.gapps), adj 529, size 10098
+[  850.154436,2] send sigkill to 24520 (.motorola.genie), adj 529, size 8968
+[  850.541618,0] send sigkill to 24647 (e.process.gapps), adj 529, size 9427
+[  850.695061,3] healthd: battery l=94 v=4097 t=46.8 h=2 st=2 c=572 chg=u
+[  850.817135,2] healthd: battery l=94 v=4105 t=46.8 h=2 st=2 c=395 chg=u
+[  851.519436,2] send sigkill to 24604 (droid.apps.plus), adj 764, size 11260
+[  852.042600,0] send sigkill to 24683 (putmethod.latin), adj 647, size 7809
+[  857.927351,0] healthd: battery l=94 v=4092 t=48.1 h=2 st=2 c=612 chg=u
+[  857.995188,0] healthd: battery l=94 v=4096 t=48.1 h=2 st=2 c=620 chg=u
+[  860.464328,0] binder: 25065:25073 refcount change on invalid ref 10
+[  860.583577,1] binder: 25065:25088 refcount change on invalid ref 10
+[  860.583726,1] binder: 25065:25088 refcount change on invalid ref 10
+[  864.594320,1] IRQ40 no longer affine to CPU1
+[  879.323318,0] healthd: battery l=94 v=4114 t=47.7 h=2 st=2 c=528 chg=u
+[  879.387952,2] healthd: battery l=94 v=4133 t=47.7 h=2 st=2 c=544 chg=u
+[  881.623743,1] tapan_codec_chargepump_vdd_event: event = 1
+[  884.916369,0] tapan_codec_chargepump_vdd_event: event = 8
+[  885.845666,1] tapan_codec_chargepump_vdd_event: event = 1
+[  889.162973,0] tapan_codec_chargepump_vdd_event: event = 8
+[  889.506017,0] bma2x2_irq_work_func, status = 0x80
+[  890.801511,0] bma2x2_irq_work_func, status = 0x40
+[  891.378605,1] tapan_codec_chargepump_vdd_event: event = 1
+[  892.061461,3] bma2x2_irq_work_func, status = 0x40
+[  894.812340,0] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[  894.818698,0] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[  894.858252,3] msm_cci_ioreg_enable failed to get regulator
+[  894.858641,0] msm_sensor_config:1730 sensor state 1
+[  895.102325,1] wlan: [2467:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+[  895.693794,3] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  895.693983,3] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  895.694087,3] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  895.851167,2] MSM-CPP msm_enqueue:117 queue frame new max is 1
+[  895.854956,0] MSM-CPP msm_enqueue:117 queue eventdata new max is 1
+[  896.321949,0] send sigkill to 25211 (apps.cloudprint), adj 1000, size 8343
+[  896.609294,2] send sigkill to 25279 (droid.apps.plus), adj 1000, size 11690
+[  897.725647,0] tapan_codec_chargepump_vdd_event: event = 8
+[  899.727239,2] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 3 reasonCode: 400
+[  899.727429,2] wlan: [2467:F :CTL] fb080eb4: 160
+[  899.727541,2] wlan: [2467:F :CTL] fb080e20: 10ea500
+[  899.727733,2] wlan: [2467:F :CTL] fb08040c: 0
+[  899.727854,2] wlan: [2467:F :CTL] fb0821b8: 8f
+[  899.728041,2] wlan: [2467:F :CTL] fb013c50: 0
+[  899.728378,2] wlan: [2467:F :CTL] fb013c5c: 12
+[  899.728526,2] wlan: [2467:F :CTL] fb013d38: 8c
+[  899.728776,2] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[  899.728886,2] wlan: [2467:F :CTL] fb0801d0: 1d
+[  902.388805,0] send sigkill to 24688 (e.process.gapps), adj 1000, size 10271
+[  904.572735,0] Report pwrkey press event
+[  904.795968,0] Report pwrkey release event
+[  904.905887,1] tapan_codec_chargepump_vdd_event: event = 1
+[  905.369087,0] Report pwrkey press event
+[  905.461727,0] mdss_dsi_panel_off+: ctrl=e481f010 ndx=0
+[  905.463180,0] synaptics_dsx_sensor_state: state change ACTIVE -> SUSPEND
+[  905.663196,3] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  905.663222,3] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -77, Alpha 5
+[  905.663963,0] Report pwrkey release event
+[  905.725941,2] msm_post_event : timeout cannot be negative Line 715
+[  905.730703,0] mdss_dsi_panel_off-:
+[  905.730729,0] mdss_dsi_off+: ctrl=e481f010 ndx=0
+[  905.760450,0] mdss_dsi_off-:
+[  905.762055,0] pmdbg_display_notify(): action = 9, data = 4
+[  905.771533,0] mdss_dsi_on+: ctrl=e481f010 ndx=0
+[  905.788702,1] msm_sensor_config:1758 sensor state 0
+[  905.795109,0] mdss_dsi_on-:
+[  905.795124,0] mdss_dsi_panel_on+: ctrl=e481f010 ndx=0
+[  905.967518,1] synaptics_dsx_sensor_state: state change SUSPEND -> ACTIVE
+[  905.967884,0] mdss_dsi_panel_on-. Pwr_mode(0x0A) = 0x9c
+[  905.967967,0] pmdbg_display_notify(): action = 9, data = 0
+[  906.202245,3] lm3630a_bl 0-0038: wake up and re-init chip
+[  906.246359,1] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[  906.252310,3] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[  906.278567,0] msm_cci_ioreg_enable failed to get regulator
+[  906.279022,0] msm_sensor_config:1730 sensor state 1
+[  906.496589,1] msm_post_event : timeout cannot be negative Line 715
+[  906.496980,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  906.497179,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -68, Alpha 5
+[  906.558465,2] msm_sensor_config:1758 sensor state 0
+[  908.341082,0] tapan_codec_chargepump_vdd_event: event = 8
+[  908.631647,2] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[  908.637777,2] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[  908.637952,2] msm_cci_ioreg_enable failed to get regulator
+[  908.638506,2] msm_sensor_config:1730 sensor state 1
+[  909.411160,3] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  909.411337,3] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  909.411439,3] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  910.208024,2] send sigkill to 25238 (android.vending), adj 1000, size 13107
+[  911.571302,0] Report pwrkey press event
+[  911.856355,0] Report pwrkey release event
+[  912.367029,0] Report pwrkey press event
+[  912.485992,1] mdss_dsi_panel_off+: ctrl=e481f010 ndx=0
+[  912.487526,1] synaptics_dsx_sensor_state: state change ACTIVE -> SUSPEND
+[  912.618779,0] Report pwrkey release event
+[  912.755074,0] mdss_dsi_panel_off-:
+[  912.755125,0] mdss_dsi_off+: ctrl=e481f010 ndx=0
+[  912.759637,1] msm_post_event : timeout cannot be negative Line 715
+[  912.785211,2] mdss_dsi_off-:
+[  912.786628,2] pmdbg_display_notify(): action = 9, data = 4
+[  912.792795,2] mdss_dsi_on+: ctrl=e481f010 ndx=0
+[  912.816162,2] mdss_dsi_on-:
+[  912.816180,2] mdss_dsi_panel_on+: ctrl=e481f010 ndx=0
+[  912.818640,1] msm_sensor_config:1758 sensor state 0
+[  912.989754,2] synaptics_dsx_sensor_state: state change SUSPEND -> ACTIVE
+[  912.990043,2] mdss_dsi_panel_on-. Pwr_mode(0x0A) = 0x9c
+[  912.990134,2] pmdbg_display_notify(): action = 9, data = 0
+[  913.059819,2] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[  913.066101,2] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[  913.098666,0] msm_cci_ioreg_enable failed to get regulator
+[  913.099064,0] msm_sensor_config:1730 sensor state 1
+[  913.323999,1] lm3630a_bl 0-0038: wake up and re-init chip
+[  913.339729,1] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  913.339888,1] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -66, Alpha 5
+[  913.415705,2] msm_post_event : timeout cannot be negative Line 715
+[  913.468421,2] msm_sensor_config:1758 sensor state 0
+[  913.605697,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  913.605861,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -66, Alpha 5
+[  915.433409,1] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[  915.439743,1] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[  915.469586,2] msm_cci_ioreg_enable failed to get regulator
+[  915.470140,2] msm_sensor_config:1730 sensor state 1
+[  916.271302,0] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  916.271414,0] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  916.271572,0] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  917.017434,0] Report pwrkey press event
+[  917.221983,0] Report pwrkey release event
+[  917.586635,0] Report pwrkey press event
+[  917.793556,0] Report pwrkey release event
+[  917.974715,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  917.974817,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -72, Alpha 5
+[  918.145568,0] msm_post_event : timeout cannot be negative Line 715
+[  918.208781,1] msm_sensor_config:1758 sensor state 0
+[  918.326137,0] lm3630a_bl 0-0038: wake up and re-init chip
+[  918.426020,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  918.426190,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -69, Alpha 5
+[  918.441236,0] bma2x2_irq_work_func, status = 0x40
+[  918.692888,0] bma2x2_irq_work_func, status = 0x40
+[  919.405814,0] healthd: battery l=94 v=4149 t=49.1 h=2 st=2 c=274 chg=u
+[  919.517860,0] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[  919.517944,1] healthd: battery l=94 v=4162 t=49.0 h=2 st=2 c=278 chg=u
+[  919.524577,0] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[  919.549027,1] msm_cci_ioreg_enable failed to get regulator
+[  919.549631,0] msm_sensor_config:1730 sensor state 1
+[  920.100137,1] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  920.100248,1] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  920.100409,1] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  921.183000,0] Report pwrkey press event
+[  921.383087,0] Report pwrkey release event
+[  921.635084,0] Report pwrkey press event
+[  921.789189,0] Report pwrkey release event
+[  921.918744,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  921.918844,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -71, Alpha 5
+[  922.202574,1] msm_post_event : timeout cannot be negative Line 715
+[  922.261309,0] msm_sensor_config:1758 sensor state 0
+[  922.566459,0] lm3630a_bl 0-0038: wake up and re-init chip
+[  922.641226,0] bma2x2_irq_work_func, status = 0x40
+[  922.792111,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  922.792433,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -68, Alpha 5
+[  922.889194,1] bma2x2_irq_work_func, status = 0x40
+[  923.424180,2] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[  923.428810,1] msm_cci_ioreg_enable failed to get regulator
+[  923.429288,1] msm_sensor_config:1730 sensor state 1
+[  923.430474,2] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[  924.100249,2] send sigkill to 25788 (ackageinstaller), adj 1000, size 11420
+[  924.116394,0] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  924.116619,0] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  924.116731,0] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  925.098426,0] Report pwrkey press event
+[  925.309793,0] Report pwrkey release event
+[  925.615601,0] Report pwrkey press event
+[  925.828436,0] Report pwrkey release event
+[  926.305971,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  926.306132,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -71, Alpha 5
+[  926.538956,2] msm_post_event : timeout cannot be negative Line 715
+[  926.598438,1] msm_sensor_config:1758 sensor state 0
+[  926.983217,2] lm3630a_bl 0-0038: wake up and re-init chip
+[  927.059714,0] bma2x2_irq_work_func, status = 0x40
+[  927.199432,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  927.199678,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -71, Alpha 5
+[  927.311506,1] bma2x2_irq_work_func, status = 0x40
+[  928.488418,1] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[  928.494335,1] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[  928.519084,0] msm_cci_ioreg_enable failed to get regulator
+[  928.519624,0] msm_sensor_config:1730 sensor state 1
+[  929.062692,0] send sigkill to 24913 (earchbox:search), adj 1000, size 16759
+[  929.095918,2] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  929.096023,2] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  929.096176,2] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  929.236448,2] binder: undelivered transaction 511695
+[  929.932980,2] send sigkill to 26450 (e.process.gapps), adj 1000, size 10258
+[  930.172350,1] wlan: [2467:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+[  930.872445,0] Report pwrkey press event
+[  931.053360,0] Report pwrkey release event
+[  931.510725,0] Report pwrkey press event
+[  931.731706,0] Report pwrkey release event
+[  932.047015,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  932.047302,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -70, Alpha 5
+[  932.048446,1] send sigkill to 26564 (android.vending), adj 1000, size 11437
+[  932.401164,0] lm3630a_bl 0-0038: wake up and re-init chip
+[  932.443135,0] msm_post_event : timeout cannot be negative Line 715
+[  932.491463,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  932.491640,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -70, Alpha 5
+[  932.508483,1] msm_sensor_config:1758 sensor state 0
+[  932.514646,0] bma2x2_irq_work_func, status = 0x40
+[  932.766388,1] bma2x2_irq_work_func, status = 0x40
+[  934.617325,1] tapan_codec_chargepump_vdd_event: event = 1
+[  936.028295,0] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[  936.034340,0] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[  936.048829,1] msm_cci_ioreg_enable failed to get regulator
+[  936.049357,1] msm_sensor_config:1730 sensor state 1
+[  936.736539,1] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  936.736651,1] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  936.736749,1] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  937.384761,0] healthd: battery l=94 v=4102 t=48.3 h=2 st=2 c=694 chg=u
+[  937.459529,0] Report pwrkey press event
+[  937.468734,0] healthd: battery l=94 v=4092 t=48.3 h=2 st=2 c=699 chg=u
+[  937.592579,1] healthd: battery l=94 v=4100 t=48.3 h=2 st=2 c=686 chg=u
+[  937.770251,0] Report pwrkey release event
+[  938.256956,0] Report pwrkey press event
+[  938.466792,0] Report pwrkey release event
+[  938.493397,0] mdss_dsi_panel_off+: ctrl=e481f010 ndx=0
+[  938.499643,0] synaptics_dsx_sensor_state: state change ACTIVE -> SUSPEND
+[  938.575957,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  938.575978,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -58, Alpha 5
+[  938.763023,0] mdss_dsi_panel_off-:
+[  938.763043,0] mdss_dsi_off+: ctrl=e481f010 ndx=0
+[  938.792602,0] mdss_dsi_off-:
+[  938.794902,0] pmdbg_display_notify(): action = 9, data = 4
+[  938.801187,0] mdss_dsi_on+: ctrl=e481f010 ndx=0
+[  938.810625,2] msm_post_event : timeout cannot be negative Line 715
+[  938.824626,0] mdss_dsi_on-:
+[  938.824642,0] mdss_dsi_panel_on+: ctrl=e481f010 ndx=0
+[  938.868427,1] msm_sensor_config:1758 sensor state 0
+[  938.997178,0] synaptics_dsx_sensor_state: state change SUSPEND -> ACTIVE
+[  938.997673,0] mdss_dsi_panel_on-. Pwr_mode(0x0A) = 0x9c
+[  938.997835,0] pmdbg_display_notify(): action = 9, data = 0
+[  939.050313,0] lm3630a_bl 0-0038: wake up and re-init chip
+[  939.142422,0] bma2x2_irq_work_func, status = 0x40
+[  939.283018,0] healthd: battery l=94 v=4122 t=48.3 h=2 st=2 c=521 chg=u
+[  939.338829,0] healthd: battery l=94 v=4126 t=48.3 h=2 st=2 c=521 chg=u
+[  939.345512,0] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[  939.351140,0] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[  939.368734,0] msm_cci_ioreg_enable failed to get regulator
+[  939.369192,0] msm_sensor_config:1730 sensor state 1
+[  939.391991,0] bma2x2_irq_work_func, status = 0x40
+[  939.443907,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  939.444196,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -58, Alpha 5
+[  939.679416,1] msm_post_event : timeout cannot be negative Line 715
+[  939.738090,0] msm_sensor_config:1758 sensor state 0
+[  940.001422,2] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[  940.007736,2] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[  940.028964,2] msm_cci_ioreg_enable failed to get regulator
+[  940.029409,2] msm_sensor_config:1730 sensor state 1
+[  940.524910,0] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  940.525090,0] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  940.525192,0] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[  941.175915,1] tapan_codec_chargepump_vdd_event: event = 8
+[  942.033670,1] tapan_codec_chargepump_vdd_event: event = 1
+[  942.321488,0] msm_post_event : timeout cannot be negative Line 715
+[  942.388375,0] msm_sensor_config:1758 sensor state 0
+[  945.334151,0] tapan_codec_chargepump_vdd_event: event = 8
+[  945.626040,0] healthd: battery l=94 v=4206 t=48.0 h=2 st=2 c=0 chg=u
+[  945.734040,0] healthd: battery l=94 v=4202 t=48.0 h=2 st=2 c=0 chg=u
+[  945.919062,0] healthd: battery l=94 v=4207 t=47.8 h=2 st=2 c=0 chg=u
+[  946.086950,0] healthd: battery l=94 v=4207 t=47.8 h=2 st=2 c=0 chg=u
+[  946.192787,0] healthd: battery l=94 v=4207 t=47.8 h=2 st=2 c=0 chg=u
+[  946.524374,0] healthd: battery l=94 v=4156 t=47.7 h=2 st=2 c=0 chg=u
+[  946.629992,1] healthd: battery l=94 v=4182 t=47.7 h=2 st=2 c=0 chg=u
+[  947.127636,0] tapan_codec_chargepump_vdd_event: event = 1
+[  947.927038,0] event_handler: reclaimed all bufs
+[  951.130249,2] tapan_codec_chargepump_vdd_event: event = 8
+[  953.860692,1] tapan_codec_chargepump_vdd_event: event = 1
+[  955.590264,0] event_handler: reclaimed all bufs
+[  957.162086,0] tapan_codec_chargepump_vdd_event: event = 8
+[  959.325777,0] healthd: battery l=94 v=4155 t=46.3 h=2 st=2 c=202 chg=u
+[  959.396561,1] healthd: battery l=94 v=4135 t=46.3 h=2 st=2 c=445 chg=u
+[  960.332627,0] healthd: battery l=94 v=4226 t=46.1 h=2 st=2 c=-121 chg=u
+[  960.509224,0] healthd: battery l=94 v=4215 t=46.1 h=2 st=2 c=36 chg=u
+[  960.611066,2] healthd: battery l=94 v=4211 t=46.1 h=2 st=2 c=36 chg=u
+[  962.581447,0] msm_otg f9a55000.usb: Avail curr from USB = 2
+[  962.581550,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+[  962.588243,0] android_work: android_work: sent uevent USB_STATE=SUSPENDED
+[  962.737243,0] healthd: battery l=94 v=4149 t=45.8 h=2 st=2 c=384 chg=
+[  962.910999,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESUME_EVENT received
+[  962.911161,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[  962.911240,0] msm_otg f9a55000.usb: Avail curr from USB = 100
+[  962.912083,1] adb_release
+[  962.913255,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[  962.914873,1] init: Service 'adbd' (pid 813) exited with status 255
+[  962.915053,1] init: Service 'adbd' (pid 813) killing any children in process group
+[  962.915606,1] init: Starting service 'adbd'...
+[  962.920721,0] mtp_release
+[  962.921230,3] adb_open
+[  962.950868,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[  962.954955,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[  962.974447,3] healthd: battery l=94 v=4111 t=45.7 h=2 st=2 c=565 chg=u
+[  963.035716,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[  963.040478,0] android_usb gadget: high-speed config #1: fe8050c8.android_usb
+[  963.040694,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[  963.092464,0] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+[  963.128706,3] mtp_open
+[  963.260751,2] healthd: battery l=94 v=4111 t=45.7 h=2 st=2 c=570 chg=u
+[  963.501681,0] healthd: battery l=94 v=4130 t=45.6 h=2 st=2 c=550 chg=u
+[  963.705222,0] healthd: battery l=94 v=4109 t=45.6 h=2 st=2 c=675 chg=u
+[  963.849931,1] healthd: battery l=94 v=4115 t=45.6 h=2 st=2 c=677 chg=u
+[  964.027216,0] healthd: battery l=94 v=4116 t=45.6 h=2 st=2 c=596 chg=u
+[  964.113237,1] healthd: battery l=94 v=4130 t=45.6 h=2 st=2 c=536 chg=u
+[  964.217308,2] healthd: battery l=94 v=4130 t=45.6 h=2 st=2 c=506 chg=u
+[  964.290200,0] healthd: battery l=94 v=4127 t=45.5 h=2 st=2 c=486 chg=u
+[  964.379581,2] healthd: battery l=94 v=4131 t=45.5 h=2 st=2 c=507 chg=u
+[  964.549266,0] healthd: battery l=94 v=4115 t=45.5 h=2 st=2 c=658 chg=u
+[  964.762901,2] healthd: battery l=94 v=4121 t=45.5 h=2 st=2 c=636 chg=u
+[  964.853035,2] healthd: battery l=94 v=4116 t=45.5 h=2 st=2 c=548 chg=u
+[  964.914612,2] healthd: battery l=94 v=4113 t=45.5 h=2 st=2 c=611 chg=u
+[  964.964748,0] healthd: battery l=94 v=4100 t=45.5 h=2 st=2 c=649 chg=u
+[  965.567302,0] msm_otg f9a55000.usb: Avail curr from USB = 2
+[  965.567396,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+[  965.567605,0] android_work: android_work: sent uevent USB_STATE=SUSPENDED
+[  965.718270,2] healthd: battery l=94 v=4115 t=45.3 h=2 st=2 c=604 chg=
+[  965.898098,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESUME_EVENT received
+[  965.898261,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[  965.898349,0] msm_otg f9a55000.usb: Avail curr from USB = 100
+[  965.898700,0] mtp_release
+[  965.899471,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[  965.901084,2] init: Service 'adbd' (pid 27454) exited with status 255
+[  965.901200,2] init: Service 'adbd' (pid 27454) killing any children in process group
+[  965.938671,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[  965.942907,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[  965.997084,3] healthd: battery l=94 v=4107 t=45.3 h=2 st=2 c=786 chg=u
+[  966.010958,0] android_usb gadget: high-speed config #1: fe8050c8.android_usb
+[  966.011092,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[  966.062390,0] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+[  966.098831,1] mtp_open
+[  966.172301,0] msm_otg f9a55000.usb: Avail curr from USB = 2
+[  966.172401,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+[  966.173077,0] android_work: android_work: sent uevent USB_STATE=SUSPENDED
+[  966.217997,2] healthd: battery l=94 v=4082 t=45.3 h=2 st=2 c=787 chg=
+[  966.452172,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESUME_EVENT received
+[  966.452411,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[  966.452508,0] msm_otg f9a55000.usb: Avail curr from USB = 100
+[  966.452958,3] mtp_release
+[  966.454012,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[  966.490162,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[  966.493851,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[  966.550378,1] healthd: battery l=94 v=4044 t=45.3 h=2 st=2 c=878 chg=
+[  966.574016,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[  966.580922,0] android_usb gadget: high-speed config #1: fe8050c8.android_usb
+[  966.581049,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[  966.603468,0] msm_otg f9a55000.usb: Avail curr from USB = 2
+[  966.603603,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+[  966.632899,0] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+[  966.633136,0] android_work: android_work: sent uevent USB_STATE=SUSPENDED
+[  966.662929,2] mtp_open
+[  966.666841,1] mtp_release
+[  966.771901,3] healthd: battery l=94 v=4061 t=45.5 h=2 st=2 c=770 chg=
+[  966.918295,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESUME_EVENT received
+[  966.918479,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[  966.918569,0] msm_otg f9a55000.usb: Avail curr from USB = 100
+[  966.922437,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[  966.958975,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[  966.962907,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[  967.041786,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[  967.044350,0] healthd: battery l=94 v=4046 t=45.5 h=2 st=2 c=946 chg=u
+[  967.050952,0] android_usb gadget: high-speed config #1: fe8050c8.android_usb
+[  967.051157,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[  967.102386,0] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+[  967.112077,0] bma2x2_irq_work_func, status = 0x80
+[  967.142133,3] mtp_open
+[  967.234024,1] healthd: battery l=94 v=4082 t=45.6 h=2 st=2 c=723 chg=u
+[  967.358777,1] healthd: battery l=94 v=4100 t=45.6 h=2 st=2 c=719 chg=u
+[  967.442094,0] healthd: battery l=94 v=4112 t=45.6 h=2 st=2 c=667 chg=u
+[  967.549477,2] healthd: battery l=94 v=4085 t=45.6 h=2 st=2 c=632 chg=u
+[  967.748165,1] healthd: battery l=94 v=4120 t=45.6 h=2 st=2 c=562 chg=u
+[  967.866209,0] healthd: battery l=94 v=4115 t=45.6 h=2 st=2 c=580 chg=u
+[  967.902785,0] init: Starting service 'adbd'...
+[  967.921664,1] healthd: battery l=94 v=4116 t=45.5 h=2 st=2 c=604 chg=u
+[  968.101886,1] healthd: battery l=94 v=4125 t=45.5 h=2 st=2 c=630 chg=u
+[  968.182465,1] healthd: battery l=94 v=4113 t=45.5 h=2 st=2 c=584 chg=u
+[  968.284825,1] healthd: battery l=94 v=4118 t=45.5 h=2 st=2 c=594 chg=u
+[  968.357608,1] healthd: battery l=94 v=4088 t=45.5 h=2 st=2 c=823 chg=u
+[  968.450627,0] healthd: battery l=94 v=4077 t=45.5 h=2 st=2 c=832 chg=u
+[  968.566997,0] healthd: battery l=94 v=4076 t=45.5 h=2 st=2 c=759 chg=u
+[  968.694294,2] healthd: battery l=94 v=4079 t=45.5 h=2 st=2 c=873 chg=u
+[  968.788371,2] healthd: battery l=94 v=4074 t=45.5 h=2 st=2 c=777 chg=u
+[  968.877600,0] healthd: battery l=94 v=4083 t=45.5 h=2 st=2 c=712 chg=u
+[  969.068385,1] healthd: battery l=94 v=4120 t=45.5 h=2 st=2 c=568 chg=u
+[  969.172274,1] healthd: battery l=94 v=4119 t=45.5 h=2 st=2 c=553 chg=u
+[  969.301183,1] healthd: battery l=94 v=4114 t=45.5 h=2 st=2 c=699 chg=u
+[  969.403754,1] healthd: battery l=94 v=4098 t=45.5 h=2 st=2 c=660 chg=u
+[  969.469047,2] healthd: battery l=94 v=4101 t=45.5 h=2 st=2 c=664 chg=u
+[  969.556911,0] healthd: battery l=94 v=4109 t=45.5 h=2 st=2 c=693 chg=u
+[  969.743983,1] healthd: battery l=94 v=4130 t=45.3 h=2 st=2 c=545 chg=u
+[  969.936871,0] healthd: battery l=94 v=4144 t=45.3 h=2 st=2 c=390 chg=u
+[  970.074831,1] healthd: battery l=94 v=4137 t=45.3 h=2 st=2 c=481 chg=u
+[  970.251944,1] healthd: battery l=94 v=4130 t=45.2 h=2 st=2 c=622 chg=u
+[  970.790381,1] healthd: battery l=94 v=4121 t=45.2 h=2 st=2 c=603 chg=u
+[  970.871254,2] healthd: battery l=94 v=4124 t=45.2 h=2 st=2 c=561 chg=u
+[  970.958225,0] healthd: battery l=94 v=4125 t=45.2 h=2 st=2 c=440 chg=u
+[  971.760440,0] healthd: battery l=94 v=4125 t=45.1 h=2 st=2 c=480 chg=u
+[  971.890988,1] healthd: battery l=94 v=4133 t=45.0 h=2 st=2 c=488 chg=u
+[  971.982412,0] healthd: battery l=94 v=4130 t=45.0 h=2 st=2 c=470 chg=u
+[  972.752177,0] healthd: battery l=94 v=4139 t=44.9 h=2 st=2 c=376 chg=u
+[  972.875302,1] healthd: battery l=94 v=4138 t=44.9 h=2 st=2 c=375 chg=u
+[  972.962704,0] healthd: battery l=94 v=4129 t=44.9 h=2 st=2 c=414 chg=u
+[  973.073742,1] healthd: battery l=94 v=4146 t=44.9 h=2 st=2 c=420 chg=u
+[  973.583306,1] IRQ40 no longer affine to CPU1
+[  973.797005,0] healthd: battery l=94 v=4148 t=44.8 h=2 st=2 c=366 chg=u
+[  973.929585,0] healthd: battery l=94 v=4140 t=44.7 h=2 st=2 c=438 chg=u
+[  973.997363,0] healthd: battery l=94 v=4126 t=44.7 h=2 st=2 c=517 chg=u
+[  974.141349,0] healthd: battery l=94 v=4130 t=44.7 h=2 st=2 c=478 chg=u
+[  974.739995,0] healthd: battery l=94 v=4142 t=44.7 h=2 st=2 c=411 chg=u
+[  974.836979,0] healthd: battery l=94 v=4124 t=44.7 h=2 st=2 c=537 chg=u
+[  975.026981,1] healthd: battery l=94 v=4137 t=44.6 h=2 st=2 c=408 chg=u
+[  975.103521,0] healthd: battery l=94 v=4119 t=44.6 h=2 st=2 c=478 chg=u
+[  975.744239,2] healthd: battery l=94 v=4132 t=44.5 h=2 st=2 c=412 chg=u
+[  975.849836,3] healthd: battery l=94 v=4121 t=44.5 h=2 st=2 c=492 chg=u
+[  975.912967,1] healthd: battery l=94 v=4122 t=44.5 h=2 st=2 c=609 chg=u
+[  976.342650,2] healthd: battery l=94 v=4140 t=44.6 h=2 st=2 c=416 chg=u
+[  976.546389,1] healthd: battery l=94 v=4143 t=44.6 h=2 st=2 c=388 chg=u
+[  976.647514,0] healthd: battery l=94 v=4155 t=44.6 h=2 st=2 c=421 chg=u
+[  976.705869,2] healthd: battery l=94 v=4142 t=44.6 h=2 st=2 c=468 chg=u
+[  976.796394,2] healthd: battery l=94 v=4132 t=44.6 h=2 st=2 c=522 chg=u
+[  979.347448,0] healthd: battery l=94 v=4157 t=44.8 h=2 st=2 c=305 chg=u
+[  979.420480,0] healthd: battery l=94 v=4148 t=44.8 h=2 st=2 c=350 chg=u
+[  980.094044,0] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 2 reasonCode: 8
+[  980.094210,0] wlan: [2467:F :CTL] fb080eb4: 0
+[  980.094297,0] wlan: [2467:F :CTL] fb080e20: 10ea500
+[  980.094450,0] wlan: [2467:F :CTL] fb08040c: 0
+[  980.094536,0] wlan: [2467:F :CTL] fb0821b8: 8f
+[  980.094687,0] wlan: [2467:F :CTL] fb013c50: 0
+[  980.094772,0] wlan: [2467:F :CTL] fb013c5c: 12
+[  980.094859,0] wlan: [2467:F :CTL] fb013d38: 8c
+[  980.095012,0] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[  980.095098,0] wlan: [2467:F :CTL] fb0801d0: 3f
+[  997.601180,1] mdss_dsi_panel_off+: ctrl=e481f010 ndx=0
+[  997.602139,1] synaptics_dsx_sensor_state: state change ACTIVE -> SUSPEND
+[  997.870730,0] mdss_dsi_panel_off-:
+[  997.870753,0] mdss_dsi_off+: ctrl=e481f010 ndx=0
+[  997.901540,1] mdss_dsi_off-:
+[  997.903300,1] pmdbg_display_notify(): action = 9, data = 4
+[  997.967143,1] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[  997.967311,1] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -71, Alpha 5
+[ 1007.384454,0] healthd: battery l=94 v=4208 t=43.2 h=2 st=2 c=86 chg=u
+[ 1007.475929,0] healthd: battery l=94 v=4189 t=43.2 h=2 st=2 c=137 chg=u
+[ 1019.355909,0] healthd: battery l=94 v=4181 t=41.8 h=2 st=2 c=212 chg=u
+[ 1019.497584,0] healthd: battery l=94 v=4181 t=41.7 h=2 st=2 c=296 chg=u
+[ 1029.339115,0] healthd: battery l=94 v=4212 t=40.8 h=2 st=2 c=47 chg=u
+[ 1029.499445,1] healthd: battery l=94 v=4201 t=40.8 h=2 st=2 c=118 chg=u
+[ 1029.583388,1] healthd: battery l=94 v=4207 t=40.7 h=2 st=2 c=89 chg=u
+[ 1032.711301,0] msm_otg f9a55000.usb: Avail curr from USB = 2
+[ 1032.711436,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+[ 1032.711672,0] android_work: android_work: sent uevent USB_STATE=SUSPENDED
+[ 1032.990445,0] healthd: battery l=94 v=4145 t=40.7 h=2 st=2 c=260 chg=
+[ 1033.025298,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESUME_EVENT received
+[ 1033.025453,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[ 1033.025532,0] msm_otg f9a55000.usb: Avail curr from USB = 100
+[ 1033.026369,0] adb_release: 1 callbacks suppressed
+[ 1033.026444,0] adb_release
+[ 1033.029426,0] init: Service 'adbd' (pid 27643) exited with status 255
+[ 1033.029586,0] init: Service 'adbd' (pid 27643) killing any children in process group
+[ 1033.029960,0] init: Starting service 'adbd'...
+[ 1033.033177,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[ 1033.067606,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[ 1033.069954,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[ 1033.094919,0] adb_open: 1 callbacks suppressed
+[ 1033.095001,0] adb_open
+[ 1033.105453,1] mtp_release
+[ 1033.144208,1] mdss_dsi_on+: ctrl=e481f010 ndx=0
+[ 1033.149092,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[ 1033.159155,0] android_usb gadget: high-speed config #1: fe8050c8.android_usb
+[ 1033.159208,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[ 1033.168381,1] mdss_dsi_on-:
+[ 1033.168401,1] mdss_dsi_panel_on+: ctrl=e481f010 ndx=0
+[ 1033.213368,0] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+[ 1033.241917,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1033.241937,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -74, Alpha 5
+[ 1033.314233,3] healthd: battery l=94 v=4105 t=40.7 h=2 st=2 c=776 chg=u
+[ 1033.344241,1] synaptics_dsx_sensor_state: state change SUSPEND -> ACTIVE
+[ 1033.344612,1] mdss_dsi_panel_on-. Pwr_mode(0x0A) = 0x9c
+[ 1033.345350,1] pmdbg_display_notify(): action = 9, data = 0
+[ 1033.380033,1] lm3630a_bl 0-0038: wake up and re-init chip
+[ 1033.462477,2] healthd: battery l=94 v=4107 t=40.7 h=2 st=2 c=645 chg=u
+[ 1033.646983,2] healthd: battery l=94 v=4119 t=40.8 h=2 st=2 c=947 chg=u
+[ 1033.845027,1] healthd: battery l=94 v=4105 t=40.8 h=2 st=2 c=672 chg=u
+[ 1034.009754,1] healthd: battery l=94 v=4094 t=41.0 h=2 st=2 c=1025 chg=u
+[ 1034.080866,1] healthd: battery l=94 v=4091 t=41.0 h=2 st=2 c=712 chg=u
+[ 1034.236768,0] healthd: battery l=94 v=4086 t=41.0 h=2 st=2 c=628 chg=u
+[ 1034.464144,0] healthd: battery l=94 v=4059 t=41.1 h=2 st=2 c=903 chg=u
+[ 1034.556363,0] healthd: battery l=94 v=4109 t=41.1 h=2 st=2 c=838 chg=u
+[ 1034.668835,2] healthd: battery l=94 v=4107 t=41.1 h=2 st=2 c=852 chg=u
+[ 1034.783906,0] healthd: battery l=94 v=4094 t=41.1 h=2 st=2 c=838 chg=u
+[ 1034.866948,3] healthd: battery l=94 v=4074 t=41.1 h=2 st=2 c=785 chg=u
+[ 1034.983120,1] healthd: battery l=94 v=4101 t=41.1 h=2 st=2 c=918 chg=u
+[ 1035.437605,1] healthd: battery l=94 v=4102 t=41.2 h=2 st=2 c=589 chg=u
+[ 1035.590657,0] healthd: battery l=94 v=4120 t=41.2 h=2 st=2 c=708 chg=u
+[ 1035.674661,1] healthd: battery l=94 v=4110 t=41.2 h=2 st=2 c=565 chg=u
+[ 1035.795347,1] healthd: battery l=94 v=4109 t=41.2 h=2 st=2 c=777 chg=u
+[ 1036.288533,0] healthd: battery l=94 v=4131 t=41.2 h=2 st=2 c=654 chg=u
+[ 1036.369739,0] healthd: battery l=94 v=4117 t=41.2 h=2 st=2 c=490 chg=u
+[ 1036.467642,3] healthd: battery l=94 v=4138 t=41.3 h=2 st=2 c=412 chg=u
+[ 1036.946068,0] healthd: battery l=94 v=4170 t=41.3 h=2 st=2 c=326 chg=u
+[ 1037.134635,0] healthd: battery l=94 v=4174 t=41.3 h=2 st=2 c=294 chg=u
+[ 1037.259262,0] healthd: battery l=94 v=4109 t=41.3 h=2 st=2 c=562 chg=u
+[ 1037.338704,0] healthd: battery l=94 v=4147 t=41.3 h=2 st=2 c=438 chg=u
+[ 1037.477691,2] healthd: battery l=94 v=4148 t=41.4 h=2 st=2 c=496 chg=u
+[ 1043.779139,0] mdss_dsi_panel_off+: ctrl=e481f010 ndx=0
+[ 1043.780152,0] synaptics_dsx_sensor_state: state change ACTIVE -> SUSPEND
+[ 1044.048569,0] mdss_dsi_panel_off-:
+[ 1044.048596,0] mdss_dsi_off+: ctrl=e481f010 ndx=0
+[ 1044.079088,0] mdss_dsi_off-:
+[ 1044.081009,0] pmdbg_display_notify(): action = 9, data = 4
+[ 1044.108886,0] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 2 reasonCode: 8
+[ 1044.109055,0] wlan: [2467:F :CTL] fb080eb4: 1
+[ 1044.109147,0] wlan: [2467:F :CTL] fb080e20: 10ea500
+[ 1044.109305,0] wlan: [2467:F :CTL] fb08040c: 0
+[ 1044.109394,0] wlan: [2467:F :CTL] fb0821b8: 8f
+[ 1044.109605,0] wlan: [2467:F :CTL] fb013c50: 0
+[ 1044.109699,0] wlan: [2467:F :CTL] fb013c5c: 12
+[ 1044.109785,0] wlan: [2467:F :CTL] fb013d38: 8c
+[ 1044.109939,0] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[ 1044.110027,0] wlan: [2467:F :CTL] fb0801d0: 6b
+[ 1044.142505,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1044.142674,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -72, Alpha 5
+[ 1052.525173,0] Report pwrkey press event
+[ 1052.555404,0] mdss_dsi_on+: ctrl=e481f010 ndx=0
+[ 1052.578789,0] mdss_dsi_on-:
+[ 1052.578806,0] mdss_dsi_panel_on+: ctrl=e481f010 ndx=0
+[ 1052.687904,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1052.687927,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -69, Alpha 5
+[ 1052.728210,0] Report pwrkey release event
+[ 1052.754885,0] synaptics_dsx_sensor_state: state change SUSPEND -> ACTIVE
+[ 1052.755828,0] mdss_dsi_panel_on-. Pwr_mode(0x0A) = 0x9c
+[ 1052.755944,0] pmdbg_display_notify(): action = 9, data = 0
+[ 1052.774590,1] lm3630a_bl 0-0038: wake up and re-init chip
+[ 1052.790330,0] bma2x2_irq_work_func, status = 0x40
+[ 1053.042294,0] bma2x2_irq_work_func, status = 0x40
+[ 1055.050357,1] tapan_codec_chargepump_vdd_event: event = 1
+[ 1056.187472,0] bma2x2_irq_work_func, status = 0x80
+[ 1056.551106,0] event_handler: reclaimed all bufs
+[ 1058.380795,0] bma2x2_irq_work_func, status = 0x80
+[ 1058.463565,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1060.336661,0] healthd: battery l=94 v=4215 t=42.4 h=2 st=2 c=0 chg=u
+[ 1060.408822,0] healthd: battery l=94 v=4198 t=42.4 h=2 st=2 c=0 chg=u
+[ 1063.759415,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1067.412900,0] bma2x2_irq_work_func, status = 0x80
+[ 1075.231071,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1080.370358,0] healthd: battery l=93 v=4162 t=43.0 h=2 st=2 c=84 chg=u
+[ 1080.475912,1] healthd: battery l=93 v=4194 t=43.0 h=2 st=2 c=131 chg=u
+[ 1080.574264,0] bma2x2_irq_work_func, status = 0x80
+[ 1080.613919,0] healthd: battery l=93 v=4193 t=43.0 h=2 st=2 c=242 chg=u
+[ 1080.697900,1] healthd: battery l=93 v=4186 t=43.0 h=2 st=2 c=194 chg=u
+[ 1091.892726,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1100.315788,1] wlan: [2477:E :SME] sme_FTUpdateKey: Unhandled state=0
+[ 1104.472552,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1104.508925,0] wlan: [2477:E :SME] sme_FTUpdateKey: Unhandled state=0
+[ 1107.564063,0] wlan: [2467:E :HDD] hdd_smeRoamCallback : Rssi on Disconnect : -65
+[ 1107.582675,0] wlan: disconnected
+[ 1107.582834,0] wlan(0) 00:00:00:00:00:00 Standalone
+[ 1107.583009,0] wlan: [2467:E :HDD] wlan_hdd_tdls_disconnection_callback: 2043: pHddTdlsCtx is NULL
+[ 1107.587382,0] cfg80211: Calling CRDA to update world regulatory domain
+[ 1107.587705,0] wlan: [2101:E :VOS] error: wiphy->bands is NULL, i = 1
+[ 1107.587893,0] cfg80211: World regulatory domain updated:
+[ 1107.587979,0] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+[ 1107.588135,0] cfg80211:   (2402000 KHz - 2462000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+[ 1107.588289,0] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz), (300 mBi, 2000 mBm)
+[ 1107.588442,0] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (300 mBi, 2000 mBm)
+[ 1107.588531,0] cfg80211:   (57240000 KHz - 63720000 KHz @ 2160000 KHz), (N/A, 0 mBm)
+[ 1107.588703,0] cfg80211: Calling CRDA for country: IN
+[ 1107.591233,0] wlan: [2101:E :VOS] error: wiphy->bands is NULL, i = 1
+[ 1107.591419,0] cfg80211: Regulatory domain changed to country: IN
+[ 1107.591570,0] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+[ 1107.591660,0] cfg80211:   (2402000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm)
+[ 1107.591815,0] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz), (N/A, 2000 mBm)
+[ 1107.591969,0] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz), (N/A, 2000 mBm)
+[ 1107.592097,0] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 2000 mBm)
+[ 1107.617241,0] wlan: [2477:E :HDD] wlan_hdd_get_station_stats: Unable to retrieve statistics
+[ 1107.617392,0] wlan: [2477:E :HDD] wlan_hdd_get_rssi:Not associated, rssi on Disconnect : -65
+[ 1107.732099,1] wlan: [29138:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 0
+[ 1107.732379,1] wlan: [29138:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1107.732617,1] wlan: [29138:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 0
+[ 1107.732798,1] wlan: [29138:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1107.732961,1] wlan: [29138:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 1
+[ 1107.733172,1] wlan: [2467:E :CTL]  WDI_ProcessReceiveFilterClearFilterReq : Association for this BSSID does not exist, filter ID = 9
+[ 1107.733334,1] wlan: [2467:E :WDA] Failure in WDA_ProcessReceiveFilterClearFilterReq(), free all the memory 
+[ 1107.733499,1] wlan: [2467:E :CTL]  WDI_ProcessReceiveFilterSetFilterReq : Association for this BSSID does not exist, filter Id =9
+[ 1107.733658,1] wlan: [2467:E :WDA] Failure in SetFilter(),free all the memory,status 3 
+[ 1107.733823,1] wlan: [2467:E :CTL]  WDI_ProcessReceiveFilterClearFilterReq : Association for this BSSID does not exist, filter ID = 8
+[ 1107.733981,1] wlan: [2467:E :WDA] Failure in WDA_ProcessReceiveFilterClearFilterReq(), free all the memory 
+[ 1107.734136,1] wlan: [2467:E :CTL]  WDI_ProcessReceiveFilterSetFilterReq : Association for this BSSID does not exist, filter Id =8
+[ 1107.734297,1] wlan: [2467:E :WDA] Failure in SetFilter(),free all the memory,status 3 
+[ 1107.734455,1] wlan: [2467:E :CTL]  WDI_ProcessReceiveFilterClearFilterReq : Association for this BSSID does not exist, filter ID = 7
+[ 1107.734612,1] wlan: [2467:E :WDA] Failure in WDA_ProcessReceiveFilterClearFilterReq(), free all the memory 
+[ 1109.269610,3] wlan: [2467:E :PE ] wlan_cfgGetInt: 374: Not valid cfg id 1
+[ 1109.296068,0] wlan: 80:6c:1b:18:a0:1b connected to 28:cf:da:b9:7c:9b
+[ 1109.296277,0] wlan(11) 28:cf:da:b9:7c:9b Standalone
+[ 1109.297348,0] ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+[ 1109.298034,3] wlan: [2467:E :HDD] wlan_hdd_sta_tdls_init TDLS not enabled (0) or FW doesn't support (1)!
+[ 1109.298141,3] wlan: [2467:E :HDD] wlan_hdd_tdls_connection_callback: wlan_hdd_sta_tdls_init failed
+[ 1109.298447,3] wlan: [2467:E :SME] sme_UpdateDSCPtoUPMapping: QOS Mapping IE not present
+[ 1109.298785,3] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 0
+[ 1109.298982,3] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1109.299184,3] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 0
+[ 1109.299318,3] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1109.299708,3] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 0
+[ 1109.299908,3] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1109.300115,3] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 0
+[ 1109.300269,3] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1109.300585,3] wlan: [2467:E :CTL] UsData Off 8 UsSend 38 cfg e35d9140
+[ 1109.300761,3] wlan: [2467:E :CTL] Out: FID 9 FT 1
+[ 1109.300857,3] wlan: [2467:E :CTL] NParams 1 CT 0
+[ 1109.300949,3] wlan: [2467:E :CTL] Out:Proto 1 Comp Flag 1
+[ 1109.301109,3] wlan: [2467:E :CTL] Data Offset 4 Data Len 6
+[ 1109.301198,3] wlan: [2467:E :CTL] CData: 1:0:94:0:0:1
+[ 1109.301362,3] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1109.303669,3] wlan: [2467:E :CTL] UsData Off 8 UsSend 38 cfg e4ae8140
+[ 1109.303833,3] wlan: [2467:E :CTL] Out: FID 8 FT 1
+[ 1109.303918,3] wlan: [2467:E :CTL] NParams 1 CT 0
+[ 1109.304060,3] wlan: [2467:E :CTL] Out:Proto 1 Comp Flag 1
+[ 1109.304142,3] wlan: [2467:E :CTL] Data Offset 4 Data Len 6
+[ 1109.304287,3] wlan: [2467:E :CTL] CData: 51:51:0:0:0:1
+[ 1109.304371,3] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1109.307582,1] wlan: [2467:E :CTL] UsData Off 8 UsSend 38 cfg e1e9cc00
+[ 1109.307747,1] wlan: [2467:E :CTL] Out: FID 9 FT 1
+[ 1109.307836,1] wlan: [2467:E :CTL] NParams 1 CT 0
+[ 1109.307997,1] wlan: [2467:E :CTL] Out:Proto 1 Comp Flag 1
+[ 1109.308085,1] wlan: [2467:E :CTL] Data Offset 4 Data Len 6
+[ 1109.308242,1] wlan: [2467:E :CTL] CData: 1:0:94:0:0:1
+[ 1109.308330,1] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1109.312818,1] wlan: [2467:E :CTL] UsData Off 8 UsSend 38 cfg e1e9c3c0
+[ 1109.312978,1] wlan: [2467:E :CTL] Out: FID 8 FT 1
+[ 1109.313129,1] wlan: [2467:E :CTL] NParams 1 CT 0
+[ 1109.313213,1] wlan: [2467:E :CTL] Out:Proto 1 Comp Flag 1
+[ 1109.313365,1] wlan: [2467:E :CTL] Data Offset 4 Data Len 6
+[ 1109.313451,1] wlan: [2467:E :CTL] CData: 51:51:0:0:0:1
+[ 1109.313775,1] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1110.257149,0] wlan: [2477:E :SME] sme_FTUpdateKey: Unhandled state=0
+[ 1110.264206,1] wlan: [2477:E :SME] sme_FTUpdateKey: Unhandled state=0
+[ 1110.532311,0] wlan: [2467:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+[ 1110.902755,0] wlan: [2101:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 0
+[ 1110.902971,0] wlan: [2101:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1110.903136,0] wlan: [2101:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 0
+[ 1110.903303,0] wlan: [2101:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1110.903544,0] wlan: [2101:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1110.903901,0] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 0
+[ 1110.904006,0] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1110.904220,0] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 0
+[ 1110.904383,0] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1110.904599,0] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 0
+[ 1110.904702,0] wlan: [2467:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1110.904983,0] wlan: [2467:E :CTL] UsData Off 8 UsSend 38 cfg e1945540
+[ 1110.905127,0] wlan: [2467:E :CTL] Out: FID 9 FT 1
+[ 1110.905208,0] wlan: [2467:E :CTL] NParams 1 CT 0
+[ 1110.905285,0] wlan: [2467:E :CTL] Out:Proto 1 Comp Flag 1
+[ 1110.905419,0] wlan: [2467:E :CTL] Data Offset 4 Data Len 6
+[ 1110.905496,0] wlan: [2467:E :CTL] CData: 1:0:94:0:0:1
+[ 1110.905630,0] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1110.907693,0] wlan: [2467:E :CTL] UsData Off 8 UsSend 38 cfg d0daf8c0
+[ 1110.907844,0] wlan: [2467:E :CTL] Out: FID 8 FT 1
+[ 1110.907926,0] wlan: [2467:E :CTL] NParams 1 CT 0
+[ 1110.908068,0] wlan: [2467:E :CTL] Out:Proto 1 Comp Flag 1
+[ 1110.908147,0] wlan: [2467:E :CTL] Data Offset 4 Data Len 6
+[ 1110.908286,0] wlan: [2467:E :CTL] CData: 51:51:0:0:0:1
+[ 1110.908369,0] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1110.909731,0] wlan: [2467:E :CTL] UsData Off 8 UsSend 38 cfg e2a64e00
+[ 1110.909814,0] wlan: [2467:E :CTL] Out: FID 7 FT 1
+[ 1110.909949,0] wlan: [2467:E :CTL] NParams 1 CT 0
+[ 1110.910024,0] wlan: [2467:E :CTL] Out:Proto 1 Comp Flag 1
+[ 1110.910101,0] wlan: [2467:E :CTL] Data Offset 4 Data Len 6
+[ 1110.910236,0] wlan: [2467:E :CTL] CData: 51:51:255:24:160:27
+[ 1110.910312,0] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1110.911970,1] wlan: [2467:E :CTL] UsData Off 8 UsSend 38 cfg d1dfc8c0
+[ 1110.912054,1] wlan: [2467:E :CTL] Out: FID 9 FT 1
+[ 1110.912269,1] wlan: [2467:E :CTL] NParams 1 CT 0
+[ 1110.912353,1] wlan: [2467:E :CTL] Out:Proto 1 Comp Flag 1
+[ 1110.912498,1] wlan: [2467:E :CTL] Data Offset 4 Data Len 6
+[ 1110.912579,1] wlan: [2467:E :CTL] CData: 1:0:94:0:0:1
+[ 1110.912722,1] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1110.914358,1] wlan: [2467:E :CTL] UsData Off 8 UsSend 38 cfg d1dfc500
+[ 1110.914513,1] wlan: [2467:E :CTL] Out: FID 8 FT 1
+[ 1110.914594,1] wlan: [2467:E :CTL] NParams 1 CT 0
+[ 1110.914675,1] wlan: [2467:E :CTL] Out:Proto 1 Comp Flag 1
+[ 1110.914820,1] wlan: [2467:E :CTL] Data Offset 4 Data Len 6
+[ 1110.914906,1] wlan: [2467:E :CTL] CData: 51:51:0:0:0:1
+[ 1110.915054,1] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1110.916628,0] wlan: [2467:E :CTL] UsData Off 8 UsSend 38 cfg e1945540
+[ 1110.916775,0] wlan: [2467:E :CTL] Out: FID 7 FT 1
+[ 1110.916854,0] wlan: [2467:E :CTL] NParams 1 CT 0
+[ 1110.916999,0] wlan: [2467:E :CTL] Out:Proto 1 Comp Flag 1
+[ 1110.917078,0] wlan: [2467:E :CTL] Data Offset 4 Data Len 6
+[ 1110.917219,0] wlan: [2467:E :CTL] CData: 51:51:255:24:160:27
+[ 1110.917298,0] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1110.936123,1] wlan: [2477:E :HDD] hdd_resume_wlan: Ignore resume wlan, Already resumed!
+[ 1110.937427,1] wlan: [2477:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 2
+[ 1110.938251,1] wlan: [2477:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 1
+[ 1110.938504,0] wlan: [2467:E :CTL] UsData Off 8 UsSend 38 cfg d0dafd80
+[ 1110.938512,1] wlan: [2477:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 2
+[ 1110.938727,0] wlan: [2467:E :CTL] Out: FID 1 FT 1
+[ 1110.938865,0] wlan: [2467:E :CTL] NParams 1 CT 0
+[ 1110.938942,0] wlan: [2467:E :CTL] Out:Proto 1 Comp Flag 1
+[ 1110.939021,0] wlan: [2467:E :CTL] Data Offset 4 Data Len 6
+[ 1110.939182,0] wlan: [2467:E :CTL] CData: 255:255:255:255:255:255
+[ 1110.939263,0] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1110.940267,0] wlan: [2467:E :CTL] UsData Off 8 UsSend 68 cfg e2349380
+[ 1110.940354,0] wlan: [2467:E :CTL] Out: FID 3 FT 1
+[ 1110.940495,0] wlan: [2467:E :CTL] NParams 2 CT 0
+[ 1110.940573,0] wlan: [2467:E :CTL] Out:Proto 2 Comp Flag 1
+[ 1110.940708,0] wlan: [2467:E :CTL] Data Offset 6 Data Len 2
+[ 1110.940785,0] wlan: [2467:E :CTL] CData: 8:6:0:0:0:0
+[ 1110.940918,0] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1110.940994,0] wlan: [2467:E :CTL] Out:Proto 2 Comp Flag 1
+[ 1110.941129,0] wlan: [2467:E :CTL] Data Offset 32 Data Len 4
+[ 1110.941205,0] wlan: [2467:E :CTL] CData: 10:0:1:128:0:0
+[ 1110.941339,0] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1112.564997,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1112.565174,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI 0, Alpha 5
+[ 1112.566796,1] wlan: [2477:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 1
+[ 1112.566995,1] wlan: [2477:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 2
+[ 1112.567745,1] wlan: [2477:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 2
+[ 1112.569577,1] wlan: [2477:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 2 params 2
+[ 1112.570460,1] wlan: [2477:E :HDD] wlan_hdd_set_filter: Packet Filter Request : FA 1 params 2
+[ 1112.602478,3] wlan: [2467:E :CTL] UsData Off 8 UsSend 68 cfg d9711800
+[ 1112.602653,3] wlan: [2467:E :CTL] Out: FID 3 FT 1
+[ 1112.602741,3] wlan: [2467:E :CTL] NParams 2 CT 0
+[ 1112.602914,3] wlan: [2467:E :CTL] Out:Proto 2 Comp Flag 1
+[ 1112.603007,3] wlan: [2467:E :CTL] Data Offset 6 Data Len 2
+[ 1112.603174,3] wlan: [2467:E :CTL] CData: 8:6:0:0:0:0
+[ 1112.603266,3] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1112.603354,3] wlan: [2467:E :CTL] Out:Proto 2 Comp Flag 1
+[ 1112.603510,3] wlan: [2467:E :CTL] Data Offset 32 Data Len 4
+[ 1112.603598,3] wlan: [2467:E :CTL] CData: 10:0:1:128:0:0
+[ 1112.603754,3] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1112.613927,3] wlan: [2467:E :CTL] UsData Off 8 UsSend 68 cfg d9711f00
+[ 1112.614095,3] wlan: [2467:E :CTL] Out: FID 3 FT 1
+[ 1112.614193,3] wlan: [2467:E :CTL] NParams 2 CT 0
+[ 1112.614366,3] wlan: [2467:E :CTL] Out:Proto 2 Comp Flag 1
+[ 1112.614448,3] wlan: [2467:E :CTL] Data Offset 6 Data Len 2
+[ 1112.614630,3] wlan: [2467:E :CTL] CData: 8:6:0:0:0:0
+[ 1112.614760,3] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1112.614945,3] wlan: [2467:E :CTL] Out:Proto 2 Comp Flag 1
+[ 1112.615063,3] wlan: [2467:E :CTL] Data Offset 32 Data Len 4
+[ 1112.615148,3] wlan: [2467:E :CTL] CData: 10:0:1:128:0:0
+[ 1112.615331,3] wlan: [2467:E :CTL] MData: 0:0:0:0:0:0
+[ 1113.010721,3] [rmnet0] error: rmnet_ioct called for unsupported cmd[35585]
+[ 1113.012546,2] [rmnet0] error: rmnet_ioct called for unsupported cmd[35585]
+[ 1113.043539,3] [rmnet0] error: rmnet_ioct called for unsupported cmd[35585]
+[ 1113.044020,3] [rmnet0] error: rmnet_ioct called for unsupported cmd[35585]
+[ 1113.044949,0] [rmnet0] error: rmnet_ioct called for unsupported cmd[35585]
+[ 1113.045476,0] [rmnet0] error: rmnet_ioct called for unsupported cmd[35585]
+[ 1113.188731,1] HTB: quantum of class 10001 is big. Consider r2q change.
+[ 1113.231589,2] HTB: quantum of class 10010 is big. Consider r2q change.
+[ 1115.445967,0] healthd: battery l=93 v=4162 t=44.6 h=2 st=2 c=302 chg=u
+[ 1115.520496,2] healthd: battery l=93 v=4166 t=44.6 h=2 st=2 c=349 chg=u
+[ 1117.155635,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1120.454250,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1120.912232,0] wlan0: no IPv6 routers present
+[ 1122.242597,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1128.944648,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1134.074924,1] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 2 reasonCode: 8
+[ 1134.075085,1] wlan: [2467:F :CTL] fb080eb4: 0
+[ 1134.075169,1] wlan: [2467:F :CTL] fb080e20: 10ea500
+[ 1134.075310,1] wlan: [2467:F :CTL] fb08040c: 0
+[ 1134.075387,1] wlan: [2467:F :CTL] fb0821b8: 8f
+[ 1134.075527,1] wlan: [2467:F :CTL] fb013c50: 0
+[ 1134.075603,1] wlan: [2467:F :CTL] fb013c5c: 12
+[ 1134.075678,1] wlan: [2467:F :CTL] fb013d38: 8c
+[ 1134.075810,1] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[ 1134.075886,1] wlan: [2467:F :CTL] fb0801d0: 78
+[ 1134.604104,1] tapan_codec_chargepump_vdd_event: event = 1
+[ 1141.042150,0] event_handler: reclaimed all bufs
+[ 1145.220689,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1149.583598,0] bma2x2_irq_work_func, status = 0x80
+[ 1149.907751,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1151.066707,0] bma2x2_irq_work_func, status = 0x80
+[ 1153.003741,0] msm_otg f9a55000.usb: Avail curr from USB = 2
+[ 1153.003907,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+[ 1153.007828,0] android_work: android_work: sent uevent USB_STATE=SUSPENDED
+[ 1153.101891,0] healthd: battery l=93 v=4097 t=45.1 h=2 st=2 c=791 chg=
+[ 1153.225571,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1153.266110,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESUME_EVENT received
+[ 1153.266348,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[ 1153.266445,0] msm_otg f9a55000.usb: Avail curr from USB = 100
+[ 1153.267438,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[ 1153.269110,3] init: Service 'adbd' (pid 28109) exited with status 255
+[ 1153.269297,3] init: Service 'adbd' (pid 28109) killing any children in process group
+[ 1153.269730,3] init: Starting service 'adbd'...
+[ 1153.287124,0] msm_otg f9a55000.usb: Avail curr from USB = 2
+[ 1153.287227,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+[ 1153.287408,0] android_work: android_work: did not send uevent (0 0   (null))
+[ 1153.421327,1] healthd: battery l=93 v=4091 t=45.0 h=2 st=2 c=774 chg=
+[ 1153.541370,1] healthd: battery l=93 v=4085 t=45.0 h=2 st=2 c=809 chg=
+[ 1153.679094,0] healthd: battery l=93 v=4103 t=45.0 h=2 st=2 c=879 chg=
+[ 1153.856175,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_RESUME_EVENT received
+[ 1153.856331,0] msm_otg f9a55000.usb: Avail curr from USB = 100
+[ 1153.856998,0] android_work: android_work: did not send uevent (0 0   (null))
+[ 1153.865962,1] healthd: battery l=93 v=4063 t=45.0 h=2 st=2 c=703 chg=
+[ 1153.897945,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[ 1153.901890,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[ 1154.039703,0] healthd: battery l=93 v=4111 t=45.0 h=2 st=2 c=656 chg=u
+[ 1154.070752,0] android_work: android_work: sent uevent USB_STATE=CONNECTED
+[ 1154.079880,0] android_usb gadget: high-speed config #1: fe8050c8.android_usb
+[ 1154.080071,0] msm_otg f9a55000.usb: Avail curr from USB = 500
+[ 1154.132707,0] android_work: android_work: sent uevent USB_STATE=CONFIGURED
+[ 1154.158819,2] mtp_open
+[ 1154.278571,2] healthd: battery l=93 v=4196 t=44.9 h=2 st=2 c=142 chg=u
+[ 1154.403513,2] healthd: battery l=93 v=4184 t=44.9 h=2 st=2 c=208 chg=u
+[ 1154.617437,3] healthd: battery l=93 v=4162 t=44.9 h=2 st=2 c=389 chg=u
+[ 1154.797357,0] healthd: battery l=93 v=4156 t=45.0 h=2 st=2 c=367 chg=u
+[ 1154.870977,2] healthd: battery l=93 v=4154 t=45.0 h=2 st=2 c=371 chg=u
+[ 1155.016036,0] healthd: battery l=93 v=4150 t=45.1 h=2 st=2 c=363 chg=u
+[ 1175.039096,0] bma2x2_irq_work_func, status = 0x40
+[ 1176.676015,2] bma2x2_irq_work_func, status = 0x40
+[ 1177.175985,0] bma2x2_irq_work_func, status = 0x80
+[ 1177.633983,1] tapan_codec_chargepump_vdd_event: event = 1
+[ 1178.207493,0] bma2x2_irq_work_func, status = 0x80
+[ 1186.100685,1] tapan_codec_chargepump_vdd_event: event = 8
+[ 1190.355233,1] tapan_codec_chargepump_vdd_event: event = 1
+[ 1193.606255,0] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 3 reasonCode: 400
+[ 1193.606342,0] wlan: [2467:F :CTL] fb080eb4: 160
+[ 1193.606474,0] wlan: [2467:F :CTL] fb080e20: 10ea500
+[ 1193.606548,0] wlan: [2467:F :CTL] fb08040c: 0
+[ 1193.606680,0] wlan: [2467:F :CTL] fb0821b8: 8f
+[ 1193.606754,0] wlan: [2467:F :CTL] fb013c50: 0
+[ 1193.606827,0] wlan: [2467:F :CTL] fb013c5c: 12
+[ 1193.606959,0] wlan: [2467:F :CTL] fb013d38: 8c
+[ 1193.607034,0] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[ 1193.607167,0] wlan: [2467:F :CTL] fb0801d0: 19
+[ 1193.660835,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1199.014565,1] tapan_codec_chargepump_vdd_event: event = 1
+[ 1200.315578,3] healthd: battery l=93 v=4116 t=48.5 h=2 st=2 c=759 chg=u
+[ 1200.486053,1] healthd: battery l=93 v=4113 t=48.5 h=2 st=2 c=656 chg=u
+[ 1202.334307,2] tapan_codec_chargepump_vdd_event: event = 8
+[ 1210.732288,2] wlan: [2467:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+[ 1212.223111,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1212.239577,0] bma2x2_irq_work_func, status = 0x80
+[ 1212.819946,2] bma2x2_irq_work_func, status = 0x80
+[ 1212.899328,2] stk_ps 2-0048: stk_prox_mode_calibrating: Prox sensor calibrating
+[ 1215.687932,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1215.725872,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1215.935247,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1215.972281,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1216.155853,0] msm_cci_ioreg_enable failed to get regulator
+[ 1216.156622,0] msm_sensor_config:1730 sensor state 1
+[ 1216.160855,0] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[ 1216.165849,0] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[ 1216.476155,0] stk_ps 2-0048: stk_prox_mode_calibrating: Prox sensor calibrating
+[ 1216.633678,0] stk_ps 2-0048: stk_prox_mode_uncovered: Prox sensor uncovered
+[ 1216.953046,2] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1216.953306,2] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1216.953424,2] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1218.314566,2] tapan_codec_chargepump_vdd_event: event = 8
+[ 1219.585140,0] bma2x2_irq_work_func, status = 0x80
+[ 1220.543308,2] healthd: battery l=93 v=4149 t=50.5 h=2 st=2 c=470 chg=u
+[ 1220.618962,2] healthd: battery l=93 v=4164 t=50.5 h=2 st=2 c=412 chg=u
+[ 1221.998624,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1224.614130,2] healthd: battery l=93 v=4149 t=51.1 h=3 st=2 c=590 chg=u
+[ 1237.159326,2] msm_post_event : timeout cannot be negative Line 715
+[ 1237.190179,0] msm_sensor_config:1758 sensor state 0
+[ 1237.482690,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1237.524487,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1237.779617,0] event_handler: reclaimed all bufs
+[ 1238.199027,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1238.238727,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1240.377680,0] healthd: battery l=93 v=4211 t=51.7 h=3 st=2 c=71 chg=u
+[ 1240.475545,2] healthd: battery l=93 v=4196 t=51.7 h=3 st=2 c=254 chg=u
+[ 1242.703239,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1248.430837,0] ueventd: SELinux: Could not set context for /sys/devices/system/cpu/cpu3/topology:  No such file or directory
+[ 1248.431049,0] ueventd: SELinux:  Could not read /sys/devices/system/cpu/cpu3/topology: No such file or directory.
+[ 1251.195859,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1256.429251,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1257.545434,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1260.341236,0] healthd: battery l=93 v=4157 t=50.8 h=3 st=2 c=320 chg=u
+[ 1260.406536,0] healthd: battery l=93 v=4145 t=50.8 h=3 st=2 c=333 chg=u
+[ 1260.456151,0] bma2x2_irq_work_func, status = 0x80
+[ 1260.849400,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1261.744539,0] bma2x2_irq_work_func, status = 0x80
+[ 1268.223780,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1270.967900,0] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 3 reasonCode: 400
+[ 1270.968076,0] wlan: [2467:F :CTL] fb080eb4: 160
+[ 1270.968169,0] wlan: [2467:F :CTL] fb080e20: 10ea500
+[ 1270.968260,0] wlan: [2467:F :CTL] fb08040c: 0
+[ 1270.968421,0] wlan: [2467:F :CTL] fb0821b8: 8f
+[ 1270.968509,0] wlan: [2467:F :CTL] fb013c50: 0
+[ 1270.968668,0] wlan: [2467:F :CTL] fb013c5c: 12
+[ 1270.968757,0] wlan: [2467:F :CTL] fb013d38: 8c
+[ 1270.968847,0] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[ 1270.969005,0] wlan: [2467:F :CTL] fb0801d0: 35
+[ 1275.465574,3] healthd: battery l=93 v=4172 t=50.8 h=2 st=2 c=314 chg=u
+[ 1281.124888,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1282.915315,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1286.224427,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1297.679747,2] healthd: battery l=93 v=4170 t=51.0 h=3 st=2 c=200 chg=u
+[ 1298.698048,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1299.839351,0] bma2x2_irq_work_func, status = 0x80
+[ 1303.120779,0] bma2x2_irq_work_func, status = 0x80
+[ 1309.965034,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1311.513817,1] tapan_codec_chargepump_vdd_event: event = 1
+[ 1315.533819,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1320.315651,0] healthd: battery l=93 v=4182 t=51.1 h=3 st=2 c=262 chg=u
+[ 1320.401038,1] healthd: battery l=93 v=4192 t=51.1 h=3 st=2 c=127 chg=u
+[ 1321.810948,1] tapan_codec_chargepump_vdd_event: event = 1
+[ 1330.625753,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1331.191428,0] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 2 reasonCode: 8
+[ 1331.191515,0] wlan: [2467:F :CTL] fb080eb4: 1
+[ 1331.191648,0] wlan: [2467:F :CTL] fb080e20: 10ea500
+[ 1331.191723,0] wlan: [2467:F :CTL] fb08040c: 0
+[ 1331.191855,0] wlan: [2467:F :CTL] fb0821b8: 8f
+[ 1331.191929,0] wlan: [2467:F :CTL] fb013c50: 0
+[ 1331.192004,0] wlan: [2467:F :CTL] fb013c5c: 12
+[ 1331.192136,0] wlan: [2467:F :CTL] fb013d38: 8c
+[ 1331.192284,0] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[ 1331.192428,0] wlan: [2467:F :CTL] fb0801d0: 15
+[ 1332.061496,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1337.438517,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1340.380603,0] healthd: battery l=93 v=4174 t=52.4 h=3 st=2 c=250 chg=u
+[ 1340.435325,0] healthd: battery l=93 v=4169 t=52.4 h=3 st=2 c=205 chg=u
+[ 1351.012298,0] wlan: [2467:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+[ 1360.313886,1] healthd: battery l=93 v=4187 t=50.7 h=3 st=2 c=151 chg=u
+[ 1360.391448,2] healthd: battery l=93 v=4185 t=50.7 h=3 st=2 c=124 chg=u
+[ 1363.453818,1] tapan_codec_chargepump_vdd_event: event = 1
+[ 1366.042359,1] wlan: [2467:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+[ 1366.764835,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1369.474544,1] healthd: battery l=93 v=4172 t=50.7 h=2 st=2 c=209 chg=u
+[ 1372.022990,0] bma2x2_irq_work_func, status = 0x80
+[ 1373.710634,0] healthd: battery l=93 v=4161 t=51.0 h=3 st=2 c=273 chg=u
+[ 1377.940585,0] bma2x2_irq_work_func, status = 0x80
+[ 1380.312857,1] healthd: battery l=93 v=4157 t=51.2 h=3 st=2 c=298 chg=u
+[ 1380.384620,1] healthd: battery l=93 v=4161 t=51.2 h=3 st=2 c=290 chg=u
+[ 1393.940367,1] mdss_dsi_panel_off+: ctrl=e481f010 ndx=0
+[ 1393.941420,1] synaptics_dsx_sensor_state: state change ACTIVE -> SUSPEND
+[ 1394.209852,1] mdss_dsi_panel_off-:
+[ 1394.209873,1] mdss_dsi_off+: ctrl=e481f010 ndx=0
+[ 1394.240237,1] mdss_dsi_off-:
+[ 1394.241597,1] pmdbg_display_notify(): action = 9, data = 4
+[ 1394.415607,2] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1394.415765,2] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -77, Alpha 5
+[ 1394.782942,0] Report pwrkey press event
+[ 1394.838642,0] mdss_dsi_on+: ctrl=e481f010 ndx=0
+[ 1394.862837,0] mdss_dsi_on-:
+[ 1394.862861,0] mdss_dsi_panel_on+: ctrl=e481f010 ndx=0
+[ 1394.871663,1] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1394.871684,1] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -77, Alpha 5
+[ 1394.973770,0] Report pwrkey release event
+[ 1395.039484,1] synaptics_dsx_sensor_state: state change SUSPEND -> ACTIVE
+[ 1395.039833,1] mdss_dsi_panel_on-. Pwr_mode(0x0A) = 0x9c
+[ 1395.039928,1] pmdbg_display_notify(): action = 9, data = 0
+[ 1395.057617,0] lm3630a_bl 0-0038: wake up and re-init chip
+[ 1400.387274,1] healthd: battery l=92 v=4150 t=51.2 h=3 st=2 c=481 chg=u
+[ 1400.446759,1] healthd: battery l=92 v=4113 t=51.4 h=3 st=2 c=565 chg=u
+[ 1400.562568,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1403.872897,2] tapan_codec_chargepump_vdd_event: event = 8
+[ 1405.120386,2] tapan_codec_chargepump_vdd_event: event = 1
+[ 1405.787772,0] bma2x2_irq_work_func, status = 0x80
+[ 1407.009744,0] bma2x2_irq_work_func, status = 0x80
+[ 1407.072789,0] bma2x2_irq_work_func, status = 0x40
+[ 1408.419626,1] tapan_codec_chargepump_vdd_event: event = 8
+[ 1413.730423,0] bma2x2_irq_work_func, status = 0x40
+[ 1414.107215,0] bma2x2_irq_work_func, status = 0x40
+[ 1416.933683,1] bma2x2_irq_work_func, status = 0x40
+[ 1419.948260,0] bma2x2_irq_work_func, status = 0x40
+[ 1423.025999,0] bma2x2_irq_work_func, status = 0x40
+[ 1425.538352,0] bma2x2_irq_work_func, status = 0x40
+[ 1425.779313,0] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 2 reasonCode: 8
+[ 1425.779515,0] wlan: [2467:F :CTL] fb080eb4: 0
+[ 1425.779608,0] wlan: [2467:F :CTL] fb080e20: 10ea500
+[ 1425.779697,0] wlan: [2467:F :CTL] fb08040c: 0
+[ 1425.779854,0] wlan: [2467:F :CTL] fb0821b8: 8f
+[ 1425.779942,0] wlan: [2467:F :CTL] fb013c50: 0
+[ 1425.780029,0] wlan: [2467:F :CTL] fb013c5c: 12
+[ 1425.780185,0] wlan: [2467:F :CTL] fb013d38: 8c
+[ 1425.780273,0] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[ 1425.780428,0] wlan: [2467:F :CTL] fb0801d0: 1
+[ 1427.298745,0] bma2x2_irq_work_func, status = 0x40
+[ 1429.181712,0] bma2x2_irq_work_func, status = 0x40
+[ 1431.254356,0] bma2x2_irq_work_func, status = 0x40
+[ 1433.829671,0] bma2x2_irq_work_func, status = 0x40
+[ 1435.965469,0] bma2x2_irq_work_func, status = 0x40
+[ 1440.358778,1] healthd: battery l=92 v=4168 t=50.8 h=3 st=2 c=255 chg=u
+[ 1440.436924,0] healthd: battery l=92 v=4153 t=50.8 h=3 st=2 c=312 chg=u
+[ 1443.356063,2] tapan_codec_chargepump_vdd_event: event = 1
+[ 1443.767616,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1443.801985,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1443.969317,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1444.008006,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1444.199103,1] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[ 1444.203725,1] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[ 1444.232283,0] msm_cci_ioreg_enable failed to get regulator
+[ 1444.232672,0] msm_sensor_config:1730 sensor state 1
+[ 1444.384588,0] stk_ps 2-0048: stk_prox_mode_calibrating: Prox sensor calibrating
+[ 1444.528036,0] stk_ps 2-0048: stk_prox_mode_uncovered: Prox sensor uncovered
+[ 1444.856763,1] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1444.856955,1] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1444.857125,1] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1446.684864,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1447.408629,1] tapan_codec_chargepump_vdd_event: event = 1
+[ 1457.115267,0] bma2x2_irq_work_func, status = 0x80
+[ 1459.390170,0] bma2x2_irq_work_func, status = 0x40
+[ 1459.889127,2] bma2x2_irq_work_func, status = 0x80
+[ 1460.454862,0] healthd: battery l=92 v=4112 t=52.2 h=3 st=2 c=643 chg=u
+[ 1460.627519,0] healthd: battery l=92 v=4079 t=52.2 h=3 st=2 c=691 chg=u
+[ 1480.579124,0] healthd: battery l=92 v=4149 t=51.7 h=3 st=2 c=340 chg=u
+[ 1480.714352,0] healthd: battery l=92 v=4147 t=51.5 h=3 st=2 c=336 chg=u
+[ 1480.822535,0] msm_post_event : timeout cannot be negative Line 715
+[ 1480.857073,0] msm_sensor_config:1758 sensor state 0
+[ 1481.242595,2] tapan_codec_chargepump_vdd_event: event = 8
+[ 1481.296118,2] tapan_codec_chargepump_vdd_event: event = 1
+[ 1481.967347,0] event_handler: reclaimed all bufs
+[ 1483.204683,2] tapan_codec_chargepump_vdd_event: event = 8
+[ 1483.256732,2] tapan_codec_chargepump_vdd_event: event = 1
+[ 1487.820093,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1488.420425,2] tapan_codec_chargepump_vdd_event: event = 1
+[ 1488.748742,2] tapan_codec_chargepump_vdd_event: event = 8
+[ 1488.784323,2] tapan_codec_chargepump_vdd_event: event = 1
+[ 1488.970436,2] tapan_codec_chargepump_vdd_event: event = 8
+[ 1489.014093,2] tapan_codec_chargepump_vdd_event: event = 1
+[ 1489.186178,0] msm_cci_ioreg_enable failed to get regulator
+[ 1489.186597,0] msm_sensor_config:1730 sensor state 1
+[ 1489.189799,2] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[ 1489.196056,2] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[ 1489.435351,2] stk_ps 2-0048: stk_prox_mode_calibrating: Prox sensor calibrating
+[ 1489.580721,0] stk_ps 2-0048: stk_prox_mode_uncovered: Prox sensor uncovered
+[ 1489.741062,2] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1489.741521,2] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1489.741634,2] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1491.292323,2] wlan: [2467:E :HDP] hdd_tx_rx_pkt_cnt_stat_timer_handler: Disable split scan
+[ 1491.723384,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1491.876710,2] tapan_codec_chargepump_vdd_event: event = 1
+[ 1493.302069,0] msm_otg f9a55000.usb: Avail curr from USB = 2
+[ 1493.302171,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_SUSPEND_EVENT received
+[ 1493.303948,0] android_work: android_work: sent uevent USB_STATE=SUSPENDED
+[ 1493.305146,0] msm_otg f9a55000.usb: Vbus state = 0
+[ 1493.305296,0] msm_otg f9a55000.usb: Avail curr from USB = 0
+[ 1493.305536,0] msm_hsusb msm_hsusb: CI13XXX_CONTROLLER_DISCONNECT_EVENT received
+[ 1493.306612,0] adb_release: 1 callbacks suppressed
+[ 1493.306776,0] adb_release
+[ 1493.309614,2] init: Service 'adbd' (pid 30478) exited with status 255
+[ 1493.309732,2] init: Service 'adbd' (pid 30478) killing any children in process group
+[ 1493.310187,2] init: Starting service 'adbd'...
+[ 1493.310613,0] android_work: android_work: sent uevent USB_STATE=DISCONNECTED
+[ 1493.326470,0] msm_otg f9a55000.usb: USB in low power mode
+[ 1493.367881,0] adb_open: 1 callbacks suppressed
+[ 1493.367970,0] adb_open
+[ 1493.473266,2] mtp_release
+[ 1493.510445,2] healthd: battery l=92 v=4088 t=51.2 h=3 st=3 c=665 chg=
+[ 1493.648390,2] healthd: battery l=92 v=4102 t=51.2 h=3 st=3 c=689 chg=
+[ 1493.904206,2] healthd: battery l=92 v=4085 t=51.1 h=3 st=3 c=682 chg=
+[ 1494.007413,0] healthd: battery l=92 v=4093 t=51.1 h=3 st=3 c=692 chg=
+[ 1494.113071,0] healthd: battery l=92 v=4100 t=51.1 h=3 st=3 c=712 chg=
+[ 1499.505621,0] healthd: battery l=92 v=4045 t=50.8 h=2 st=3 c=907 chg=
+[ 1500.434728,0] healthd: battery l=92 v=4026 t=51.0 h=2 st=3 c=1068 chg=
+[ 1500.534857,2] healthd: battery l=92 v=4015 t=51.0 h=2 st=3 c=829 chg=
+[ 1500.959689,2] healthd: battery l=92 v=4077 t=51.0 h=3 st=3 c=895 chg=
+[ 1505.451638,2] healthd: battery l=92 v=4080 t=51.0 h=2 st=3 c=926 chg=
+[ 1508.256645,2] healthd: battery l=92 v=4076 t=51.1 h=3 st=3 c=980 chg=
+[ 1509.708504,0] msm_isp_process_error_info: Stream[1]: dropped 1 frames
+[ 1525.013304,0] msm_vidc: 4: Opening video instance: c0099000, 0
+[ 1525.043710,0] pil_venus fdce0000.qcom,venus: venus: loading from 0x0f000000 to 0x0f500000
+[ 1525.283543,0] pil_venus fdce0000.qcom,venus: venus: Brought out of reset
+[ 1525.383051,0] msm_vidc: 1: No more formats found
+[ 1525.383096,0] msm_vidc: 1: No more formats found
+[ 1530.128591,0] msm_vidc: 4: Opening video instance: c4165000, 1
+[ 1530.570190,2] msm_vidc: 1: Persist buffers already allocated
+[ 1531.873876,0] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 2 reasonCode: 8
+[ 1531.873996,0] wlan: [2467:F :CTL] fb080eb4: 0
+[ 1531.874186,0] wlan: [2467:F :CTL] fb080e20: 10ea500
+[ 1531.874294,0] wlan: [2467:F :CTL] fb08040c: 0
+[ 1531.874483,0] wlan: [2467:F :CTL] fb0821b8: 8f
+[ 1531.874589,0] wlan: [2467:F :CTL] fb013c50: 0
+[ 1531.874694,0] wlan: [2467:F :CTL] fb013c5c: 12
+[ 1531.874885,0] wlan: [2467:F :CTL] fb013d38: 8c
+[ 1531.874991,0] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[ 1531.875177,0] wlan: [2467:F :CTL] fb0801d0: 23
+[ 1537.786211,0] msm_isp_process_error_info: Stream[1]: dropped 1 frames
+[ 1537.786477,0] msm_isp_process_error_info: Stats stream[0]: dropped 1 frames
+[ 1537.786591,0] msm_isp_process_error_info: Stats stream[1]: dropped 1 frames
+[ 1537.786820,0] msm_isp_process_error_info: Stats stream[2]: dropped 1 frames
+[ 1537.786941,0] msm_isp_process_error_info: Stats stream[4]: dropped 1 frames
+[ 1537.787128,0] msm_isp_process_error_info: Stats stream[5]: dropped 1 frames
+[ 1537.787314,0] msm_isp_process_error_info: Stats stream[6]: dropped 1 frames
+[ 1537.787419,0] msm_isp_process_error_info: Stats stream[7]: dropped 1 frames
+[ 1540.345574,0] msm_vidc: 4: Closed video instance: c4165000
+[ 1540.404801,0] msm_vidc: 4: Opening video instance: c74ec000, 1
+[ 1540.802867,0] healthd: battery l=92 v=4071 t=52.0 h=3 st=3 c=911 chg=
+[ 1541.072875,0] msm_vidc: 1: Persist buffers already allocated
+[ 1541.169815,2] healthd: battery l=92 v=4039 t=51.8 h=3 st=3 c=760 chg=
+[ 1542.450279,0] msm_isp_process_error_info: Stream[1]: dropped 3 frames
+[ 1542.450573,0] msm_isp_process_error_info: Stats stream[0]: dropped 3 frames
+[ 1542.450725,0] msm_isp_process_error_info: Stats stream[1]: dropped 3 frames
+[ 1542.450986,0] msm_isp_process_error_info: Stats stream[2]: dropped 3 frames
+[ 1545.781473,0] msm_isp_process_error_info: Stream[1]: dropped 22 frames
+[ 1545.781672,0] msm_isp_process_error_info: 16 callbacks suppressed
+[ 1545.781858,0] msm_isp_process_error_info: Stats stream[0]: dropped 23 frames
+[ 1545.781964,0] msm_isp_process_error_info: Stats stream[1]: dropped 23 frames
+[ 1545.782150,0] msm_isp_process_error_info: Stats stream[2]: dropped 22 frames
+[ 1545.782305,0] msm_isp_process_error_info: Stats stream[4]: dropped 23 frames
+[ 1545.782494,0] msm_isp_process_error_info: Stats stream[5]: dropped 23 frames
+[ 1545.782681,0] msm_isp_process_error_info: Stats stream[6]: dropped 23 frames
+[ 1545.782787,0] msm_isp_process_error_info: Stats stream[7]: dropped 26 frames
+[ 1545.801528,0] msm_isp_process_error_info: Stats stream[2]: dropped 1 frames
+[ 1545.811231,0] msm_isp_process_error_info: Stream[1]: dropped 1 frames
+[ 1545.811503,0] msm_isp_process_error_info: Stats stream[0]: dropped 1 frames
+[ 1545.811707,0] msm_isp_process_error_info: Stats stream[1]: dropped 1 frames
+[ 1550.125627,0] msm_isp_process_error_info: Stream[1]: dropped 16 frames
+[ 1553.779781,0] msm_isp_process_error_info: 32 callbacks suppressed
+[ 1553.779885,0] msm_isp_process_error_info: Stats stream[0]: dropped 15 frames
+[ 1553.780046,0] msm_isp_process_error_info: Stats stream[1]: dropped 15 frames
+[ 1553.780208,0] msm_isp_process_error_info: Stats stream[2]: dropped 15 frames
+[ 1553.780297,0] msm_isp_process_error_info: Stats stream[4]: dropped 16 frames
+[ 1553.780456,0] msm_isp_process_error_info: Stats stream[5]: dropped 16 frames
+[ 1553.780617,0] msm_isp_process_error_info: Stats stream[6]: dropped 16 frames
+[ 1553.780707,0] msm_isp_process_error_info: Stats stream[7]: dropped 17 frames
+[ 1557.108963,0] msm_isp_process_error_info: Stream[1]: dropped 2 frames
+[ 1557.109089,0] msm_isp_process_error_info: Stats stream[0]: dropped 3 frames
+[ 1557.109277,0] msm_isp_process_error_info: Stats stream[1]: dropped 3 frames
+[ 1557.109464,0] msm_isp_process_error_info: Stats stream[2]: dropped 2 frames
+[ 1557.138716,0] msm_isp_process_error_info: Stream[1]: dropped 1 frames
+[ 1557.584273,0] bma2x2_irq_work_func, status = 0x40
+[ 1560.815981,0] msm_isp_process_error_info: Stream[1]: dropped 10 frames
+[ 1560.816204,0] msm_isp_process_error_info: 19 callbacks suppressed
+[ 1560.816396,0] msm_isp_process_error_info: Stats stream[0]: dropped 9 frames
+[ 1560.816596,0] msm_isp_process_error_info: Stats stream[1]: dropped 8 frames
+[ 1560.816833,0] msm_isp_process_error_info: Stats stream[2]: dropped 9 frames
+[ 1560.816946,0] msm_isp_process_error_info: Stats stream[4]: dropped 11 frames
+[ 1560.817135,0] msm_isp_process_error_info: Stats stream[5]: dropped 11 frames
+[ 1560.817242,0] msm_isp_process_error_info: Stats stream[6]: dropped 11 frames
+[ 1560.817430,0] msm_isp_process_error_info: Stats stream[7]: dropped 12 frames
+[ 1561.561189,0] healthd: battery l=91 v=4069 t=51.5 h=3 st=3 c=660 chg=
+[ 1561.708258,0] healthd: battery l=91 v=4080 t=51.5 h=3 st=3 c=606 chg=
+[ 1561.832660,0] healthd: battery l=91 v=4082 t=51.5 h=3 st=3 c=713 chg=
+[ 1561.943494,0] healthd: battery l=91 v=4081 t=51.5 h=3 st=3 c=593 chg=
+[ 1562.161974,0] bma2x2_irq_work_func, status = 0x80
+[ 1563.701194,0] Report pwrkey press event
+[ 1566.121022,0] Report pwrkey release event
+[ 1568.202912,0] msm_vidc: 1: Failed to unset OCMEM during PC -22
+[ 1568.202935,0] msm_vidc: 1: Failed to unset and free OCMEM for PC -22
+[ 1570.316569,0] msm_vidc: 4: Closed video instance: c74ec000
+[ 1570.523320,2] msm_vidc: 4: Opening video instance: c2273000, 1
+[ 1572.636017,2] msm_vidc: 4: Closed video instance: c0099000
+[ 1572.683522,2] healthd: battery l=91 v=4061 t=50.8 h=2 st=3 c=725 chg=
+[ 1573.414618,2] msm_vidc: 4: Opening video instance: df93d000, 0
+[ 1573.848850,2] msm_vidc: 1: No more formats found
+[ 1573.848883,2] msm_vidc: 1: No more formats found
+[ 1575.457630,0] msm_isp_process_error_info: Stream[1]: dropped 22 frames
+[ 1575.457764,0] msm_isp_process_error_info: Stats stream[0]: dropped 6 frames
+[ 1575.457959,0] msm_isp_process_error_info: Stats stream[1]: dropped 6 frames
+[ 1575.458172,0] msm_isp_process_error_info: Stats stream[2]: dropped 6 frames
+[ 1575.458286,0] msm_isp_process_error_info: Stats stream[4]: dropped 5 frames
+[ 1575.458481,0] msm_isp_process_error_info: Stats stream[5]: dropped 6 frames
+[ 1575.458589,0] msm_isp_process_error_info: Stats stream[6]: dropped 6 frames
+[ 1575.458777,0] msm_isp_process_error_info: Stats stream[7]: dropped 6 frames
+[ 1575.475826,0] msm_vidc: 1: Persist buffers already allocated
+[ 1575.477676,0] msm_isp_process_error_info: Stats stream[2]: dropped 1 frames
+[ 1575.487377,0] msm_isp_process_error_info: Stream[1]: dropped 1 frames
+[ 1575.487595,0] msm_isp_process_error_info: Stats stream[0]: dropped 1 frames
+[ 1575.487717,0] msm_isp_process_error_info: Stats stream[1]: dropped 1 frames
+[ 1575.966959,0] bma2x2_irq_work_func, status = 0x80
+[ 1576.088412,2] msm_vidc: 4: Closed video instance: c2273000
+[ 1576.190842,0] msm_vidc: 4: Opening video instance: de5f4000, 1
+[ 1577.855701,2] msm_vidc: 1: Persist buffers already allocated
+[ 1577.989904,0] msm_vidc: 4: Closed video instance: de5f4000
+[ 1578.004693,2] msm_vidc: 4: Opening video instance: c00e4000, 1
+[ 1578.419997,0] bma2x2_irq_work_func, status = 0x80
+[ 1580.027063,0] msm_isp_process_error_info: Stream[1]: dropped 45 frames
+[ 1581.597681,2] healthd: battery l=91 v=4057 t=50.2 h=2 st=3 c=930 chg=
+[ 1583.114662,2] healthd: battery l=91 v=4069 t=50.2 h=2 st=3 c=832 chg=
+[ 1583.908903,2] msm_vidc: 1: Persist buffers already allocated
+[ 1583.978837,0] msm_vidc: 4: Closed video instance: c00e4000
+[ 1584.043058,2] msm_vidc: 4: Opening video instance: ccf4e000, 1
+[ 1584.125044,0] msm_isp_process_error_info: Stream[1]: dropped 26 frames
+[ 1584.125175,0] msm_isp_process_error_info: 32 callbacks suppressed
+[ 1584.125384,0] msm_isp_process_error_info: Stats stream[0]: dropped 30 frames
+[ 1584.125701,0] msm_isp_process_error_info: Stats stream[1]: dropped 29 frames
+[ 1584.126238,0] msm_isp_process_error_info: Stats stream[2]: dropped 31 frames
+[ 1584.126440,0] msm_isp_process_error_info: Stats stream[4]: dropped 30 frames
+[ 1584.126549,0] msm_isp_process_error_info: Stats stream[5]: dropped 30 frames
+[ 1584.126793,0] msm_isp_process_error_info: Stats stream[6]: dropped 30 frames
+[ 1584.127150,0] msm_isp_process_error_info: Stats stream[7]: dropped 31 frames
+[ 1584.616867,0] binder: undelivered transaction 860804
+[ 1586.602000,0] msm_vidc: 1: Persist buffers already allocated
+[ 1588.300189,0] msm_isp_process_error_info: Stream[1]: dropped 21 frames
+[ 1588.300406,0] msm_isp_process_error_info: Stats stream[0]: dropped 5 frames
+[ 1588.300620,0] msm_isp_process_error_info: Stats stream[1]: dropped 5 frames
+[ 1588.300735,0] msm_isp_process_error_info: Stats stream[2]: dropped 6 frames
+[ 1591.129384,0] bma2x2_irq_work_func, status = 0x80
+[ 1591.264449,0] bma2x2_irq_work_func, status = 0x40
+[ 1591.724970,0] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 2 reasonCode: 8
+[ 1591.725096,0] wlan: [2467:F :CTL] fb080eb4: 0
+[ 1591.725289,0] wlan: [2467:F :CTL] fb080e20: 10ea500
+[ 1591.725396,0] wlan: [2467:F :CTL] fb08040c: 0
+[ 1591.725581,0] wlan: [2467:F :CTL] fb0821b8: 8f
+[ 1591.725687,0] wlan: [2467:F :CTL] fb013c50: 0
+[ 1591.725793,0] wlan: [2467:F :CTL] fb013c5c: 12
+[ 1591.725979,0] wlan: [2467:F :CTL] fb013d38: 8c
+[ 1591.726271,0] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[ 1591.726543,0] wlan: [2467:F :CTL] fb0801d0: 0
+[ 1592.184160,0] msm_isp_process_error_info: Stream[1]: dropped 29 frames
+[ 1592.184371,0] msm_isp_process_error_info: 16 callbacks suppressed
+[ 1592.184477,0] msm_isp_process_error_info: Stats stream[0]: dropped 14 frames
+[ 1592.184664,0] msm_isp_process_error_info: Stats stream[1]: dropped 13 frames
+[ 1592.184771,0] msm_isp_process_error_info: Stats stream[2]: dropped 14 frames
+[ 1592.184959,0] msm_isp_process_error_info: Stats stream[4]: dropped 15 frames
+[ 1592.185148,0] msm_isp_process_error_info: Stats stream[5]: dropped 15 frames
+[ 1592.185252,0] msm_isp_process_error_info: Stats stream[6]: dropped 16 frames
+[ 1592.185440,0] msm_isp_process_error_info: Stats stream[7]: dropped 19 frames
+[ 1595.206883,0] msm_vidc: 4: Closed video instance: df93d000
+[ 1595.503956,0] msm_vidc: 4: Opening video instance: ccfb2000, 0
+[ 1595.862070,0] msm_isp_process_error_info: Stream[1]: dropped 34 frames
+[ 1595.862345,0] msm_isp_process_error_info: Stats stream[0]: dropped 5 frames
+[ 1595.862548,0] msm_isp_process_error_info: Stats stream[1]: dropped 5 frames
+[ 1595.862656,0] msm_isp_process_error_info: Stats stream[2]: dropped 4 frames
+[ 1596.490622,2] msm_vidc: 1: No more formats found
+[ 1596.490657,2] msm_vidc: 1: No more formats found
+[ 1600.575227,0] msm_isp_process_error_info: Stream[1]: dropped 56 frames
+[ 1600.575589,0] msm_isp_process_error_info: 16 callbacks suppressed
+[ 1600.575762,0] msm_isp_process_error_info: Stats stream[0]: dropped 20 frames
+[ 1600.576074,0] msm_isp_process_error_info: Stats stream[1]: dropped 20 frames
+[ 1600.576313,0] msm_isp_process_error_info: Stats stream[2]: dropped 20 frames
+[ 1600.576669,0] msm_isp_process_error_info: Stats stream[4]: dropped 23 frames
+[ 1600.576860,0] msm_isp_process_error_info: Stats stream[5]: dropped 23 frames
+[ 1600.577001,0] msm_isp_process_error_info: Stats stream[6]: dropped 23 frames
+[ 1600.577197,0] msm_isp_process_error_info: Stats stream[7]: dropped 25 frames
+[ 1600.605016,0] msm_isp_process_error_info: Stream[1]: dropped 1 frames
+[ 1600.862661,0] bma2x2_irq_work_func, status = 0x40
+[ 1603.904431,0] msm_isp_process_error_info: Stream[1]: dropped 19 frames
+[ 1603.904656,0] msm_isp_process_error_info: Stats stream[0]: dropped 12 frames
+[ 1603.904862,0] msm_isp_process_error_info: Stats stream[1]: dropped 11 frames
+[ 1603.904978,0] msm_isp_process_error_info: Stats stream[2]: dropped 12 frames
+[ 1603.934179,0] msm_isp_process_error_info: Stream[1]: dropped 1 frames
+[ 1604.463284,2] msm_vidc: 4: Closed video instance: ccfb2000
+[ 1607.758829,0] bma2x2_irq_work_func, status = 0x40
+[ 1609.114336,0] msm_isp_process_error_info: Stream[1]: dropped 17 frames
+[ 1609.114559,0] msm_isp_process_error_info: 21 callbacks suppressed
+[ 1609.114672,0] msm_isp_process_error_info: Stats stream[0]: dropped 2 frames
+[ 1609.114862,0] msm_isp_process_error_info: Stats stream[1]: dropped 2 frames
+[ 1609.115069,0] msm_isp_process_error_info: Stats stream[2]: dropped 2 frames
+[ 1609.115175,0] msm_isp_process_error_info: Stats stream[4]: dropped 12 frames
+[ 1609.115368,0] msm_isp_process_error_info: Stats stream[5]: dropped 13 frames
+[ 1609.115581,0] msm_isp_process_error_info: Stats stream[6]: dropped 13 frames
+[ 1609.115688,0] msm_isp_process_error_info: Stats stream[7]: dropped 14 frames
+[ 1609.144103,0] msm_isp_process_error_info: Stream[1]: dropped 1 frames
+[ 1609.703475,0] msm_vidc: 4: Opening video instance: c39ad000, 0
+[ 1609.734282,2] msm_vidc: 1: No more formats found
+[ 1609.734315,2] msm_vidc: 1: No more formats found
+[ 1610.874104,0] msm_vidc: 4: Closed video instance: c39ad000
+[ 1610.896006,2] msm_vidc: 4: Opening video instance: c1399000, 0
+[ 1610.951695,1] msm_vidc: 1: No more formats found
+[ 1610.951720,1] msm_vidc: 1: No more formats found
+[ 1612.079749,1] binder: undelivered transaction 866186
+[ 1612.079895,1] binder: undelivered transaction 864484
+[ 1612.443495,0] msm_isp_process_error_info: Stream[1]: dropped 14 frames
+[ 1612.443586,0] msm_isp_process_error_info: Stats stream[0]: dropped 5 frames
+[ 1612.443732,0] msm_isp_process_error_info: Stats stream[1]: dropped 4 frames
+[ 1612.443874,0] msm_isp_process_error_info: Stats stream[2]: dropped 4 frames
+[ 1615.772692,0] msm_isp_process_error_info: 16 callbacks suppressed
+[ 1615.772918,0] msm_isp_process_error_info: Stats stream[4]: dropped 4 frames
+[ 1615.773009,0] msm_isp_process_error_info: Stats stream[5]: dropped 4 frames
+[ 1615.773170,0] msm_isp_process_error_info: Stats stream[6]: dropped 4 frames
+[ 1615.773334,0] msm_isp_process_error_info: Stats stream[7]: dropped 5 frames
+[ 1617.356037,0] bma2x2_irq_work_func, status = 0x40
+[ 1618.031260,0] msm_vidc: 4: Closed video instance: c1399000
+[ 1618.053303,0] msm_vidc: 4: Opening video instance: c684f000, 0
+[ 1618.093037,2] msm_vidc: 1: No more formats found
+[ 1618.093065,2] msm_vidc: 1: No more formats found
+[ 1619.550484,0] bma2x2_irq_work_func, status = 0x40
+[ 1619.827420,0] msm_isp_process_error_info: Stream[1]: dropped 1 frames
+[ 1619.827570,0] msm_isp_process_error_info: Stats stream[0]: dropped 1 frames
+[ 1619.827647,0] msm_isp_process_error_info: Stats stream[1]: dropped 1 frames
+[ 1619.827779,0] msm_isp_process_error_info: Stats stream[4]: dropped 1 frames
+[ 1619.827854,0] msm_isp_process_error_info: Stats stream[5]: dropped 1 frames
+[ 1619.827986,0] msm_isp_process_error_info: Stats stream[6]: dropped 1 frames
+[ 1619.828119,0] msm_isp_process_error_info: Stats stream[7]: dropped 1 frames
+[ 1619.905016,0] msm_vidc: 4: Closed video instance: c684f000
+[ 1619.922636,0] msm_vidc: 4: Opening video instance: c6849000, 0
+[ 1619.988020,2] msm_vidc: 1: No more formats found
+[ 1619.988045,2] msm_vidc: 1: No more formats found
+[ 1621.561432,0] bma2x2_irq_work_func, status = 0x40
+[ 1621.854334,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1621.914587,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1622.393853,2] healthd: battery l=91 v=4045 t=51.1 h=3 st=3 c=781 chg=
+[ 1623.250300,0] bma2x2_irq_work_func, status = 0x40
+[ 1623.489402,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1623.559984,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1625.132950,2] bma2x2_irq_work_func, status = 0x40
+[ 1625.309731,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1625.322989,2] bma2x2_irq_work_func, status = 0x40
+[ 1625.513937,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1626.126073,0] msm_vidc: 4: Closed video instance: c6849000
+[ 1626.173181,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1626.238529,2] msm_vidc: 4: Opening video instance: e2321000, 0
+[ 1626.245659,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1626.297497,2] msm_vidc: 1: No more formats found
+[ 1626.297521,2] msm_vidc: 1: No more formats found
+[ 1626.645676,0] bma2x2_irq_work_func, status = 0x40
+[ 1626.879194,0] msm_isp_process_error_info: Stream[1]: dropped 2 frames
+[ 1627.448641,2] msm_vidc: 4: Closed video instance: e2321000
+[ 1627.477420,0] msm_vidc: 4: Opening video instance: c40ef000, 0
+[ 1627.517732,0] msm_vidc: 1: No more formats found
+[ 1627.517759,0] msm_vidc: 1: No more formats found
+[ 1631.269535,0] msm_isp_process_error_info: Stream[1]: dropped 2 frames
+[ 1631.782350,2] bma2x2_irq_work_func, status = 0x40
+[ 1632.477865,0] msm_vidc: 4: Closed video instance: c40ef000
+[ 1632.516445,0] msm_vidc: 4: Opening video instance: c40bb000, 0
+[ 1632.553983,0] msm_vidc: 1: No more formats found
+[ 1632.554009,0] msm_vidc: 1: No more formats found
+[ 1632.679073,2] bma2x2_irq_work_func, status = 0x80
+[ 1642.476089,2] healthd: battery l=90 v=4063 t=51.7 h=3 st=3 c=726 chg=
+[ 1642.663563,0] healthd: battery l=90 v=4042 t=51.7 h=3 st=3 c=738 chg=
+[ 1645.092663,2] msm_vidc: 4: Closed video instance: ccf4e000
+[ 1645.218402,2] msm_vidc: 4: Opening video instance: cc842000, 1
+[ 1647.348804,0] msm_vidc: 1: Persist buffers already allocated
+[ 1647.705453,0] bma2x2_irq_work_func, status = 0x80
+[ 1651.107361,2] bma2x2_irq_work_func, status = 0x80
+[ 1651.424685,0] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 2 reasonCode: 8
+[ 1651.424806,0] wlan: [2467:F :CTL] fb080eb4: 1
+[ 1651.424994,0] wlan: [2467:F :CTL] fb080e20: 10ea500
+[ 1651.425100,0] wlan: [2467:F :CTL] fb08040c: 0
+[ 1651.445509,0] wlan: [2467:F :CTL] fb0821b8: 8f
+[ 1651.445626,0] wlan: [2467:F :CTL] fb013c50: 0
+[ 1651.445733,0] wlan: [2467:F :CTL] fb013c5c: 12
+[ 1651.445988,0] wlan: [2467:F :CTL] fb013d38: 8c
+[ 1651.446099,0] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[ 1651.446288,0] wlan: [2467:F :CTL] fb0801d0: 0
+[ 1656.052804,0] bma2x2_irq_work_func, status = 0x80
+[ 1656.415476,0] msm_isp_process_error_info: Stream[1]: dropped 6 frames
+[ 1656.415645,0] msm_isp_process_error_info: Stats stream[0]: dropped 8 frames
+[ 1656.415801,0] msm_isp_process_error_info: Stats stream[1]: dropped 8 frames
+[ 1656.415888,0] msm_isp_process_error_info: Stats stream[2]: dropped 8 frames
+[ 1656.416081,0] msm_isp_process_error_info: Stats stream[4]: dropped 7 frames
+[ 1656.416170,0] msm_isp_process_error_info: Stats stream[5]: dropped 7 frames
+[ 1656.416323,0] msm_isp_process_error_info: Stats stream[6]: dropped 7 frames
+[ 1656.416485,0] msm_isp_process_error_info: Stats stream[7]: dropped 8 frames
+[ 1663.482099,0] msm_isp_process_error_info: Stream[1]: dropped 2 frames
+[ 1663.482384,0] msm_isp_process_error_info: Stats stream[0]: dropped 2 frames
+[ 1663.482589,0] msm_isp_process_error_info: Stats stream[1]: dropped 2 frames
+[ 1663.482698,0] msm_isp_process_error_info: Stats stream[2]: dropped 2 frames
+[ 1663.482892,0] msm_isp_process_error_info: Stats stream[4]: dropped 2 frames
+[ 1663.483000,0] msm_isp_process_error_info: Stats stream[5]: dropped 2 frames
+[ 1663.483187,0] msm_isp_process_error_info: Stats stream[6]: dropped 2 frames
+[ 1663.483381,0] msm_isp_process_error_info: Stats stream[7]: dropped 2 frames
+[ 1665.853854,0] Report pwrkey press event
+[ 1666.057990,0] Report pwrkey release event
+[ 1666.959170,0] msm_isp_process_error_info: Stream[1]: dropped 6 frames
+[ 1666.959298,0] msm_isp_process_error_info: Stats stream[0]: dropped 7 frames
+[ 1666.959486,0] msm_isp_process_error_info: Stats stream[1]: dropped 6 frames
+[ 1666.959748,0] msm_isp_process_error_info: Stats stream[2]: dropped 6 frames
+[ 1667.588079,0] Report pwrkey press event
+[ 1667.833332,0] Report pwrkey release event
+[ 1668.388685,0] mdss_dsi_panel_off+: ctrl=e481f010 ndx=0
+[ 1668.390045,0] synaptics_dsx_sensor_state: state change ACTIVE -> SUSPEND
+[ 1668.660099,0] mdss_dsi_panel_off-:
+[ 1668.660132,0] mdss_dsi_off+: ctrl=e481f010 ndx=0
+[ 1668.692350,0] mdss_dsi_off-:
+[ 1668.699332,0] pmdbg_display_notify(): action = 9, data = 4
+[ 1669.002947,2] mdss_dsi_on+: ctrl=e481f010 ndx=0
+[ 1669.034866,0] mdss_dsi_on-:
+[ 1669.034885,0] mdss_dsi_panel_on+: ctrl=e481f010 ndx=0
+[ 1669.271230,0] synaptics_dsx_sensor_state: state change SUSPEND -> ACTIVE
+[ 1669.271718,0] mdss_dsi_panel_on-. Pwr_mode(0x0A) = 0x9c
+[ 1669.272007,0] pmdbg_display_notify(): action = 9, data = 0
+[ 1669.414105,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1669.415032,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -73, Alpha 5
+[ 1670.952589,0] lm3630a_bl 0-0038: wake up and re-init chip
+[ 1670.954444,0] Report pwrkey press event
+[ 1671.064340,0] msm_isp_process_error_info: Stream[1]: dropped 7 frames
+[ 1671.064540,0] msm_isp_process_error_info: 20 callbacks suppressed
+[ 1671.064730,0] msm_isp_process_error_info: Stats stream[0]: dropped 9 frames
+[ 1671.064837,0] msm_isp_process_error_info: Stats stream[1]: dropped 9 frames
+[ 1671.065025,0] msm_isp_process_error_info: Stats stream[2]: dropped 10 frames
+[ 1671.065132,0] msm_isp_process_error_info: Stats stream[4]: dropped 13 frames
+[ 1671.065390,0] msm_isp_process_error_info: Stats stream[5]: dropped 13 frames
+[ 1671.065581,0] msm_isp_process_error_info: Stats stream[6]: dropped 13 frames
+[ 1671.065687,0] msm_isp_process_error_info: Stats stream[7]: dropped 16 frames
+[ 1671.228766,0] Report pwrkey release event
+[ 1672.381793,0] msm_post_event : timeout cannot be negative Line 715
+[ 1672.411657,0] msm_sensor_config:1758 sensor state 0
+[ 1672.775761,0] Report pwrkey press event
+[ 1672.987537,0] Report pwrkey release event
+[ 1673.090583,0] mdss_dsi_panel_off+: ctrl=e481f010 ndx=0
+[ 1673.091688,2] synaptics_dsx_sensor_state: state change ACTIVE -> SUSPEND
+[ 1673.358993,0] mdss_dsi_panel_off-:
+[ 1673.359031,0] mdss_dsi_off+: ctrl=e481f010 ndx=0
+[ 1673.390036,2] mdss_dsi_off-:
+[ 1673.391626,2] pmdbg_display_notify(): action = 9, data = 4
+[ 1673.409674,0] mdss_dsi_on+: ctrl=e481f010 ndx=0
+[ 1673.444832,2] mdss_dsi_on-:
+[ 1673.444852,2] mdss_dsi_panel_on+: ctrl=e481f010 ndx=0
+[ 1673.625177,2] msm_cci_ioreg_enable failed to get regulator
+[ 1673.625545,2] msm_sensor_config:1730 sensor state 1
+[ 1673.627129,2] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[ 1673.627177,0] synaptics_dsx_sensor_state: state change SUSPEND -> ACTIVE
+[ 1673.627507,0] mdss_dsi_panel_on-. Pwr_mode(0x0A) = 0x9c
+[ 1673.627597,0] pmdbg_display_notify(): action = 9, data = 0
+[ 1673.631456,2] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[ 1673.715456,0] stk_ps 2-0048: stk_prox_mode_calibrating: Prox sensor calibrating
+[ 1673.906725,0] stk_ps 2-0048: stk_prox_mode_uncovered: Prox sensor uncovered
+[ 1674.472929,0] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1674.473209,0] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1674.473319,0] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1674.989510,2] lm3630a_bl 0-0038: wake up and re-init chip
+[ 1675.379320,2] msm_post_event : timeout cannot be negative Line 715
+[ 1675.412319,2] msm_sensor_config:1758 sensor state 0
+[ 1676.099050,0] msm_cci_ioreg_enable failed to get regulator
+[ 1676.100207,2] MSM-CPP cpp_load_fw:876 MC Bootloader Version: 0x312e3176
+[ 1676.105783,2] MSM-CPP cpp_load_fw:888 CPP FW Version: 0x1002000a
+[ 1676.105873,0] msm_sensor_config:1730 sensor state 1
+[ 1676.234598,0] stk_ps 2-0048: stk_prox_mode_calibrating: Prox sensor calibrating
+[ 1676.428846,0] stk_ps 2-0048: stk_prox_mode_uncovered: Prox sensor uncovered
+[ 1677.409800,2] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1677.410044,2] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1677.410148,2] msm_isp_send_hw_cmd:550 hi 8 lo 8
+[ 1679.445442,0] bma2x2_irq_work_func, status = 0x40
+[ 1680.387978,0] bma2x2_irq_work_func, status = 0x40
+[ 1682.376938,2] healthd: battery l=90 v=4000 t=52.1 h=3 st=3 c=885 chg=
+[ 1682.503036,0] healthd: battery l=90 v=4002 t=52.1 h=3 st=3 c=1029 chg=
+[ 1683.893547,0] bma2x2_irq_work_func, status = 0x40
+[ 1684.288230,2] msm_vidc: 4: Closed video instance: c40bb000
+[ 1684.487968,2] msm_vidc: 4: Opening video instance: c1000000, 0
+[ 1684.534226,2] msm_vidc: 1: No more formats found
+[ 1684.534253,2] msm_vidc: 1: No more formats found
+[ 1688.415590,2] bma2x2_irq_work_func, status = 0x40
+[ 1690.072646,0] msm_vidc: 4: Closed video instance: c1000000
+[ 1690.192378,0] msm_vidc: 4: Opening video instance: d7c47000, 0
+[ 1690.250586,2] msm_vidc: 1: No more formats found
+[ 1690.250628,2] msm_vidc: 1: No more formats found
+[ 1702.517497,0] healthd: battery l=90 v=4055 t=51.7 h=3 st=3 c=670 chg=
+[ 1702.653220,2] healthd: battery l=90 v=4053 t=51.7 h=3 st=3 c=690 chg=
+[ 1707.156267,0] bma2x2_irq_work_func, status = 0x40
+[ 1707.343058,0] bma2x2_irq_work_func, status = 0x40
+[ 1710.916548,0] bma2x2_irq_work_func, status = 0x40
+[ 1711.480622,2] bma2x2_irq_work_func, status = 0x40
+[ 1715.589644,2] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 2 reasonCode: 8
+[ 1715.589820,2] wlan: [2467:F :CTL] fb080eb4: 0
+[ 1715.589911,2] wlan: [2467:F :CTL] fb080e20: 10ea500
+[ 1715.590076,2] wlan: [2467:F :CTL] fb08040c: 0
+[ 1715.590165,2] wlan: [2467:F :CTL] fb0821b8: 8f
+[ 1715.590385,2] wlan: [2467:F :CTL] fb013c50: 0
+[ 1715.590548,2] wlan: [2467:F :CTL] fb013c5c: 12
+[ 1715.590636,2] wlan: [2467:F :CTL] fb013d38: 8c
+[ 1715.590834,2] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[ 1715.590999,2] wlan: [2467:F :CTL] fb0801d0: 0
+[ 1718.251991,0] bma2x2_irq_work_func, status = 0x40
+[ 1722.284615,2] binder: release 3829:3829 transaction 916900 out, still active
+[ 1722.792413,2] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1722.792574,2] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -66, Alpha 5
+[ 1723.451127,2] healthd: battery l=90 v=4034 t=51.1 h=3 st=3 c=855 chg=
+[ 1723.553022,0] healthd: battery l=90 v=4050 t=51.1 h=3 st=3 c=790 chg=
+[ 1724.715104,0] bma2x2_irq_work_func, status = 0x40
+[ 1724.973925,2] tapan_codec_chargepump_vdd_event: event = 8
+[ 1725.410406,0] msm_isp_process_error_info: Stream[1]: dropped 1 frames
+[ 1728.560587,0] healthd: battery l=90 v=4052 t=51.0 h=3 st=3 c=773 chg=
+[ 1728.612155,0] healthd: battery l=90 v=4046 t=51.0 h=3 st=3 c=757 chg=
+[ 1729.118550,0] stk_ps 2-0048: stk_prox_mode_covered: Prox sensor covered
+[ 1729.141091,0] stk_ps 2-0048: stk_prox_mode_uncovered: Prox sensor uncovered
+[ 1729.553087,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1729.751301,2] msm_vidc: 4: Closed video instance: d7c47000
+[ 1729.860028,2] msm_vidc: 4: Opening video instance: c413d000, 0
+[ 1729.938573,2] msm_vidc: 1: No more formats found
+[ 1729.938597,2] msm_vidc: 1: No more formats found
+[ 1731.989490,2] init: avc:  denied  { set } for property=misc.debug scontext=u:r:system_app:s0 tcontext=u:object_r:default_prop:s0 tclass=property_service
+[ 1731.998497,0] init: sys_prop: permission denied uid:1000  name:misc.debug
+[ 1732.011224,0] init: avc:  denied  { set } for property=log.debug_level scontext=u:r:system_app:s0 tcontext=u:object_r:shell_prop:s0 tclass=property_service
+[ 1732.011398,0] init: sys_prop: permission denied uid:1000  name:log.debug_level
+[ 1732.256320,0] stk_ps 2-0048: stk_prox_mode_covered: Prox sensor covered
+[ 1732.854754,2] stk_ps 2-0048: stk_prox_mode_uncovered: Prox sensor uncovered
+[ 1733.114637,2] bma2x2_irq_work_func, status = 0x40
+[ 1733.820589,2] msm_vidc: 4: Closed video instance: c413d000
+[ 1733.918249,2] msm_vidc: 4: Opening video instance: e4d56000, 0
+[ 1733.985523,0] msm_vidc: 1: No more formats found
+[ 1733.985546,0] msm_vidc: 1: No more formats found
+[ 1738.162569,0] wlan: [2477:E :PMC] pmcPowerSaveCheck: 662: pmcPowerSaveCheck fail!
+[ 1738.162663,0] wlan: [2477:E :PMC] PMC: Power save check failed. BMPS cannot be entered now
+[ 1739.202516,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1739.202678,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -69, Alpha 5
+[ 1739.285068,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1739.285215,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -67, Alpha 5
+[ 1743.625690,2] healthd: battery l=89 v=4038 t=51.7 h=3 st=3 c=868 chg=
+[ 1743.736294,2] healthd: battery l=89 v=4041 t=51.7 h=3 st=3 c=815 chg=
+[ 1743.795497,2] healthd: battery l=89 v=4040 t=51.8 h=3 st=3 c=954 chg=
+[ 1743.928261,2] healthd: battery l=89 v=4032 t=51.8 h=3 st=3 c=925 chg=
+[ 1754.123780,2] bma2x2_irq_work_func, status = 0x40
+[ 1755.415485,2] msm_vidc: 4: Closed video instance: e4d56000
+[ 1755.905737,2] msm_vidc: 4: Opening video instance: d16d8000, 0
+[ 1755.961948,0] msm_vidc: 1: No more formats found
+[ 1755.961981,0] msm_vidc: 1: No more formats found
+[ 1758.756992,0] msm_isp_process_error_info: Stream[1]: dropped 3 frames
+[ 1758.757160,0] msm_isp_process_error_info: Stats stream[0]: dropped 3 frames
+[ 1758.757349,0] msm_isp_process_error_info: Stats stream[1]: dropped 3 frames
+[ 1758.757456,0] msm_isp_process_error_info: Stats stream[2]: dropped 4 frames
+[ 1758.757941,0] msm_isp_process_error_info: Stats stream[4]: dropped 2 frames
+[ 1758.758129,0] msm_isp_process_error_info: Stats stream[5]: dropped 2 frames
+[ 1758.758238,0] msm_isp_process_error_info: Stats stream[6]: dropped 2 frames
+[ 1758.758455,0] msm_isp_process_error_info: Stats stream[7]: dropped 3 frames
+[ 1760.030457,0] bma2x2_irq_work_func, status = 0x40
+[ 1762.265009,2] msm_vidc: 4: Closed video instance: d16d8000
+[ 1762.639839,0] msm_vidc: 4: Opening video instance: da2f7000, 0
+[ 1763.154661,0] msm_vidc: 1: No more formats found
+[ 1763.180485,0] msm_vidc: 1: No more formats found
+[ 1763.619547,2] healthd: battery l=89 v=4043 t=51.5 h=3 st=3 c=933 chg=
+[ 1763.690855,0] healthd: battery l=89 v=4052 t=51.5 h=3 st=3 c=877 chg=
+[ 1777.840443,0] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 2 reasonCode: 8
+[ 1777.840601,0] wlan: [2467:F :CTL] fb080eb4: 0
+[ 1777.840683,0] wlan: [2467:F :CTL] fb080e20: 10ea500
+[ 1777.840828,0] wlan: [2467:F :CTL] fb08040c: 0
+[ 1777.840976,0] wlan: [2467:F :CTL] fb0821b8: 8f
+[ 1777.841218,0] wlan: [2467:F :CTL] fb013c50: 0
+[ 1777.841365,0] wlan: [2467:F :CTL] fb013c5c: 12
+[ 1777.841448,0] wlan: [2467:F :CTL] fb013d38: 8c
+[ 1777.841593,0] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[ 1777.841675,0] wlan: [2467:F :CTL] fb0801d0: 0
+[ 1783.421316,2] healthd: battery l=89 v=4044 t=51.7 h=3 st=3 c=703 chg=
+[ 1783.492303,2] healthd: battery l=89 v=4045 t=51.7 h=3 st=3 c=865 chg=
+[ 1787.858700,2] bma2x2_irq_work_func, status = 0x40
+[ 1793.064818,2] msm_vidc: 4: Closed video instance: da2f7000
+[ 1794.417142,2] msm_vidc: 4: Opening video instance: c3eae000, 0
+[ 1794.573637,2] msm_vidc: 1: No more formats found
+[ 1794.573786,2] msm_vidc: 1: No more formats found
+[ 1797.454676,0] bma2x2_irq_work_func, status = 0x40
+[ 1798.072710,0] msm_vidc: 4: Closed video instance: c3eae000
+[ 1798.836344,2] msm_vidc: 4: Opening video instance: c3ea9000, 0
+[ 1798.873698,2] msm_vidc: 1: No more formats found
+[ 1798.873726,2] msm_vidc: 1: No more formats found
+[ 1800.282935,0] bma2x2_irq_work_func, status = 0x40
+[ 1800.663330,2] bma2x2_irq_work_func, status = 0x40
+[ 1802.345007,0] bma2x2_irq_work_func, status = 0x40
+[ 1802.948459,0] msm_vidc: 4: Closed video instance: c3ea9000
+[ 1803.037320,0] msm_vidc: 4: Opening video instance: e2603000, 0
+[ 1803.111789,0] msm_vidc: 1: No more formats found
+[ 1803.111814,0] msm_vidc: 1: No more formats found
+[ 1803.349976,2] healthd: battery l=89 v=4032 t=51.4 h=3 st=3 c=741 chg=
+[ 1803.440714,0] healthd: battery l=89 v=4038 t=51.4 h=3 st=3 c=875 chg=
+[ 1819.378868,0] msm_isp_process_error_info: Stream[1]: dropped 1 frames
+[ 1819.379019,0] msm_isp_process_error_info: Stats stream[0]: dropped 1 frames
+[ 1819.379218,0] msm_isp_process_error_info: Stats stream[1]: dropped 1 frames
+[ 1819.379423,0] msm_isp_process_error_info: Stats stream[2]: dropped 1 frames
+[ 1819.379573,0] msm_isp_process_error_info: Stats stream[4]: dropped 1 frames
+[ 1819.379797,0] msm_isp_process_error_info: Stats stream[5]: dropped 1 frames
+[ 1819.379967,0] msm_isp_process_error_info: Stats stream[6]: dropped 1 frames
+[ 1819.380167,0] msm_isp_process_error_info: Stats stream[7]: dropped 1 frames
+[ 1826.041853,0] bma2x2_irq_work_func, status = 0x40
+[ 1826.481644,0] bma2x2_irq_work_func, status = 0x40
+[ 1827.974834,0] msm_vidc: 4: Closed video instance: e2603000
+[ 1828.418353,0] msm_vidc: 4: Opening video instance: d82eb000, 0
+[ 1828.558709,0] msm_vidc: 1: No more formats found
+[ 1828.558746,0] msm_vidc: 1: No more formats found
+[ 1829.866410,2] bma2x2_irq_work_func, status = 0x40
+[ 1831.911518,0] msm_isp_process_error_info: Stream[1]: dropped 2 frames
+[ 1831.911636,0] msm_isp_process_error_info: Stats stream[0]: dropped 2 frames
+[ 1831.911824,0] msm_isp_process_error_info: Stats stream[1]: dropped 2 frames
+[ 1831.912034,0] msm_isp_process_error_info: Stats stream[2]: dropped 2 frames
+[ 1831.912141,0] msm_isp_process_error_info: Stats stream[4]: dropped 2 frames
+[ 1831.912369,0] msm_isp_process_error_info: Stats stream[5]: dropped 2 frames
+[ 1831.912558,0] msm_isp_process_error_info: Stats stream[6]: dropped 2 frames
+[ 1831.912748,0] msm_isp_process_error_info: Stats stream[7]: dropped 2 frames
+[ 1833.670340,2] healthd: battery l=89 v=4052 t=50.8 h=2 st=3 c=634 chg=
+[ 1838.156427,0] msm_isp_process_error_info: Stream[1]: dropped 4 frames
+[ 1839.305969,0] healthd: battery l=89 v=4015 t=51.0 h=3 st=3 c=856 chg=
+[ 1841.607503,2] healthd: battery l=89 v=4055 t=50.8 h=2 st=3 c=699 chg=
+[ 1842.405471,0] msm_isp_process_error_info: Stream[1]: dropped 18 frames
+[ 1842.405673,0] msm_isp_process_error_info: Stats stream[0]: dropped 4 frames
+[ 1842.405780,0] msm_isp_process_error_info: Stats stream[1]: dropped 4 frames
+[ 1842.405969,0] msm_isp_process_error_info: Stats stream[2]: dropped 6 frames
+[ 1842.406158,0] msm_isp_process_error_info: Stats stream[4]: dropped 4 frames
+[ 1842.406266,0] msm_isp_process_error_info: Stats stream[5]: dropped 4 frames
+[ 1842.406454,0] msm_isp_process_error_info: Stats stream[6]: dropped 4 frames
+[ 1842.406561,0] msm_isp_process_error_info: Stats stream[7]: dropped 4 frames
+[ 1842.797048,0] wlan: [2467:F :CTL] WDI_printRegInfo: regCount: 9 scenario: 2 reasonCode: 8
+[ 1842.797251,0] wlan: [2467:F :CTL] fb080eb4: 0
+[ 1842.797358,0] wlan: [2467:F :CTL] fb080e20: 10ea500
+[ 1842.797546,0] wlan: [2467:F :CTL] fb08040c: 0
+[ 1842.797653,0] wlan: [2467:F :CTL] fb0821b8: 8f
+[ 1842.797758,0] wlan: [2467:F :CTL] fb013c50: 0
+[ 1842.797944,0] wlan: [2467:F :CTL] fb013c5c: 12
+[ 1842.798049,0] wlan: [2467:F :CTL] fb013d38: 8c
+[ 1842.798154,0] wlan: [2467:F :CTL] fb0800f4: 800007ff
+[ 1842.798340,0] wlan: [2467:F :CTL] fb0801d0: 0
+[ 1844.485993,0] healthd: battery l=88 v=4049 t=50.7 h=2 st=3 c=692 chg=
+[ 1844.545029,0] healthd: battery l=88 v=4045 t=50.7 h=2 st=3 c=672 chg=
+[ 1844.797529,0] tapan_codec_chargepump_vdd_event: event = 8
+[ 1847.013129,0] Report pwrkey press event
+[ 1847.062789,0] msm_isp_process_error_info: Stream[1]: dropped 11 frames
+[ 1849.165657,0] Report pwrkey release event
+[ 1851.807962,0] Report pwrkey press event
+[ 1851.858621,0] msm_isp_process_error_info: Stream[1]: dropped 13 frames
+[ 1854.223583,0] Report pwrkey release event
+[ 1855.875335,0] msm_isp_process_error_info: Stream[1]: dropped 10 frames
+[ 1857.782384,2] msm_vidc: 1: Failed to unset OCMEM during PC -22
+[ 1857.782402,2] msm_vidc: 1: Failed to unset and free OCMEM for PC -22
+[ 1859.024667,0] stk_ps 2-0048: stk_prox_mode_covered: Prox sensor covered
+[ 1859.094098,2] stk_ps 2-0048: stk_prox_mode_uncovered: Prox sensor uncovered
+[ 1862.635780,0] msm_isp_process_error_info: Stream[1]: dropped 4 frames
+[ 1863.633429,0] Report pwrkey press event
+[ 1864.500664,0] healthd: battery l=88 v=4044 t=49.3 h=2 st=3 c=755 chg=
+[ 1864.654451,0] healthd: battery l=88 v=4048 t=49.3 h=2 st=3 c=714 chg=
+[ 1864.912388,0] Report pwrkey release event
+[ 1865.375599,0] Report pwrkey press event
+[ 1865.648533,0] Report pwrkey release event
+[ 1866.468030,0] msm_vidc: 4: Closed video instance: cc842000
+[ 1866.506310,1] msm_vidc: 4: Opening video instance: c137a000, 1
+[ 1866.567413,0] tapan_codec_chargepump_vdd_event: event = 1
+[ 1866.646275,1] msm_vidc: 1: Persist buffers already allocated
+[ 1867.125027,0] Report pwrkey press event
+[ 1867.217500,2] msm_post_event : timeout cannot be negative Line 715
+[ 1867.249208,1] msm_sensor_config:1758 sensor state 0
+[ 1867.344796,0] Report pwrkey release event
+[ 1868.072991,0] Report pwrkey press event
+[ 1868.281406,0] Report pwrkey release event
+[ 1869.243600,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1869.243775,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -71, Alpha 5
+[ 1869.818281,2] lm3630a_bl 0-0038: wake up and re-init chip
+[ 1869.977394,0] Report pwrkey press event
+[ 1870.108231,2] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1870.108427,2] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -71, Alpha 5
+[ 1870.242591,0] Report pwrkey release event
+[ 1870.552458,1] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1870.552640,1] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -75, Alpha 5
+[ 1870.821382,0] mdss_dsi_panel_off+: ctrl=e481f010 ndx=0
+[ 1870.826831,0] synaptics_dsx_sensor_state: state change ACTIVE -> SUSPEND
+[ 1870.927704,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1870.927724,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -73, Alpha 5
+[ 1871.091347,2] mdss_dsi_panel_off-:
+[ 1871.091366,2] mdss_dsi_off+: ctrl=e481f010 ndx=0
+[ 1871.122640,2] mdss_dsi_off-:
+[ 1871.124025,2] pmdbg_display_notify(): action = 9, data = 4
+[ 1871.199612,2] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1871.199793,2] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -73, Alpha 5
+[ 1871.231284,0] init: Starting service 'dumpstate'...
+[ 1871.296284,0] Report pwrkey press event
+[ 1871.338031,2] mdss_dsi_on+: ctrl=e481f010 ndx=0
+[ 1871.361477,2] mdss_dsi_on-:
+[ 1871.361495,2] mdss_dsi_panel_on+: ctrl=e481f010 ndx=0
+[ 1871.534365,0] synaptics_dsx_sensor_state: state change SUSPEND -> ACTIVE
+[ 1871.534784,0] mdss_dsi_panel_on-. Pwr_mode(0x0A) = 0x9c
+[ 1871.534870,0] pmdbg_display_notify(): action = 9, data = 0
+[ 1871.552313,0] lm3630a_bl 0-0038: wake up and re-init chip
+[ 1871.578556,0] Report pwrkey release event
+[ 1871.686655,0] wlan: [2467:E :SME] sme_QosPmcDeviceStateUpdateInd: 7443: nothing to process in PMC state BMPS (6)
+[ 1871.686849,0] wlan: [2467:E :TL ]  ----> CRegion 0, hRSSI -72, Alpha 5

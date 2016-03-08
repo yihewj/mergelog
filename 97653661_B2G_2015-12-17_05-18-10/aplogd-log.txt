@@ -1,0 +1,174 @@
+pid=513
+I|05:45:52:658|   513|   513|                    UserOpts.cpp|  92| Getting args from /system/etc/aplogd/default.opts: --disk=200
+I|05:45:52:658|   513|   513|                    UserOpts.cpp|  46| collect=mrsekc
+I|05:45:52:658|   513|   513|                    UserOpts.cpp|  47| format=threadtime
+I|05:45:52:658|   513|   513|                    UserOpts.cpp|  48| size=10
+I|05:45:52:658|   513|   513|                    UserOpts.cpp|  49| ext=0
+I|05:45:52:658|   513|   513|                    UserOpts.cpp|  50| nice=0
+I|05:45:52:658|   513|   513|                    UserOpts.cpp|  51| disk=200
+I|05:45:52:658|   513|   513|         AndroidStreamReader.cpp|  52| Creating buffer for main
+I|05:45:52:659|   513|   513|         AndroidStreamReader.cpp|  52| Creating buffer for radio
+I|05:45:52:659|   513|   513|         AndroidStreamReader.cpp|  52| Creating buffer for events
+I|05:45:52:659|   513|   513|         AndroidStreamReader.cpp|  52| Creating buffer for system
+I|05:45:52:659|   513|   513|         AndroidStreamReader.cpp|  52| Creating buffer for crash
+I|05:45:52:659|   513|   513|         AndroidStreamReader.cpp|  52| Creating buffer for kernel
+I|05:45:52:659|   513|   513|         AndroidStreamReader.cpp| 123| Opening logdr socket
+I|05:45:52:660|   513|   513|         AndroidStreamReader.cpp| 159| Sending "stream lids=0,1,2,3,4,5" to logdr
+I|05:45:52:695|   513|   513|                   OutputMgr.cpp| 120| Detected new boot: 0d5b3964-3ff0-4f80-885d-6326305f58f2
+I|05:45:52:767|   513|   513|              ArchivalThread.cpp|  47| Caching snapshot of /data/aplogd
+I|05:45:53:136|   513|   513|              ArchivalThread.cpp|  76| Starting ArchivalThread
+I|05:45:53:136|   513|   513|                   OutputMgr.cpp|  46| Changing set due to daemon startup
+I|05:45:53:138|   513|   513|                   OutputMgr.cpp| 219| Changed set: boot=7, set=1
+I|05:45:53:138|   513|   513|                      aplogd.cpp| 258| Starting main I/O loop
+I|05:45:53:145|   513|   830|              ArchivalThread.cpp| 123| ArchivalThread is running
+I|05:45:53:145|   513|   830|              ArchivalThread.cpp| 254| Searching for uncompressed files to compress
+I|05:45:53:155|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000006_Set-0000000043_Stream-m.txt to /data/aplogd/Boot-0000000006_Set-0000000043_Stream-m.txt.gz
+I|05:45:55:423|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000006_Set-0000000043_Stream-r.txt to /data/aplogd/Boot-0000000006_Set-0000000043_Stream-r.txt.gz
+I|05:45:55:667|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000006_Set-0000000043_Stream-s.txt to /data/aplogd/Boot-0000000006_Set-0000000043_Stream-s.txt.gz
+I|05:45:56:043|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000006_Set-0000000043_Stream-e.txt to /data/aplogd/Boot-0000000006_Set-0000000043_Stream-e.txt.gz
+I|05:45:56:080|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000006_Set-0000000043_Stream-k.txt to /data/aplogd/Boot-0000000006_Set-0000000043_Stream-k.txt.gz
+I|05:45:56:105|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000006_Set-0000000043_Stream-c.txt to /data/aplogd/Boot-0000000006_Set-0000000043_Stream-c.txt.gz
+I|05:45:56:107|   513|   830|              ArchivalThread.cpp| 287| Searching for sets over quota
+I|05:45:56:919|   513|   830|              ArchivalThread.cpp| 131| Entering main archival loop
+I|13:27:21:231|   513|   513|                   OutputMgr.cpp| 351| Hit max set size 10485760 with 10487686
+I|13:27:21:238|   513|   513|              ArchivalThread.cpp| 100| Creating ArchiveSetMsg(7, 1)
+I|13:27:21:238|   513|   830|              ArchivalThread.cpp| 139| Handling msg=0xb80f5230
+I|13:27:21:238|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000001_Stream-m.txt to /data/aplogd/Boot-0000000007_Set-0000000001_Stream-m.txt.gz
+I|13:27:21:263|   513|   513|                   OutputMgr.cpp| 219| Changed set: boot=7, set=2
+I|13:27:21:730|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000001_Stream-r.txt to /data/aplogd/Boot-0000000007_Set-0000000001_Stream-r.txt.gz
+I|13:27:22:048|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000001_Stream-s.txt to /data/aplogd/Boot-0000000007_Set-0000000001_Stream-s.txt.gz
+I|13:27:22:367|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000001_Stream-e.txt to /data/aplogd/Boot-0000000007_Set-0000000001_Stream-e.txt.gz
+I|13:27:22:409|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000001_Stream-k.txt to /data/aplogd/Boot-0000000007_Set-0000000001_Stream-k.txt.gz
+I|13:27:22:474|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000001_Stream-c.txt to /data/aplogd/Boot-0000000007_Set-0000000001_Stream-c.txt.gz
+I|13:27:22:479|   513|   830|              ArchivalThread.cpp| 287| Searching for sets over quota
+I|15:50:22:498|   513|   513|                   OutputMgr.cpp| 351| Hit max set size 10485760 with 10487417
+I|15:50:22:503|   513|   513|              ArchivalThread.cpp| 100| Creating ArchiveSetMsg(7, 2)
+I|15:50:22:503|   513|   830|              ArchivalThread.cpp| 139| Handling msg=0xb80f5230
+I|15:50:22:503|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000002_Stream-m.txt to /data/aplogd/Boot-0000000007_Set-0000000002_Stream-m.txt.gz
+I|15:50:22:526|   513|   513|                   OutputMgr.cpp| 219| Changed set: boot=7, set=3
+I|15:50:23:067|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000002_Stream-r.txt to /data/aplogd/Boot-0000000007_Set-0000000002_Stream-r.txt.gz
+I|15:50:23:179|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000002_Stream-s.txt to /data/aplogd/Boot-0000000007_Set-0000000002_Stream-s.txt.gz
+I|15:50:23:559|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000002_Stream-e.txt to /data/aplogd/Boot-0000000007_Set-0000000002_Stream-e.txt.gz
+I|15:50:23:585|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000002_Stream-k.txt to /data/aplogd/Boot-0000000007_Set-0000000002_Stream-k.txt.gz
+I|15:50:23:910|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000002_Stream-c.txt to /data/aplogd/Boot-0000000007_Set-0000000002_Stream-c.txt.gz
+I|15:50:24:249|   513|   830|              ArchivalThread.cpp| 287| Searching for sets over quota
+I|18:12:00:857|   513|   513|                   OutputMgr.cpp| 351| Hit max set size 10485760 with 10488121
+I|18:12:00:860|   513|   513|              ArchivalThread.cpp| 100| Creating ArchiveSetMsg(7, 3)
+I|18:12:00:860|   513|   830|              ArchivalThread.cpp| 139| Handling msg=0xb80f5230
+I|18:12:00:860|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000003_Stream-m.txt to /data/aplogd/Boot-0000000007_Set-0000000003_Stream-m.txt.gz
+I|18:12:00:875|   513|   513|                   OutputMgr.cpp| 219| Changed set: boot=7, set=4
+I|18:12:01:478|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000003_Stream-r.txt to /data/aplogd/Boot-0000000007_Set-0000000003_Stream-r.txt.gz
+I|18:12:01:642|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000003_Stream-s.txt to /data/aplogd/Boot-0000000007_Set-0000000003_Stream-s.txt.gz
+I|18:12:02:014|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000003_Stream-e.txt to /data/aplogd/Boot-0000000007_Set-0000000003_Stream-e.txt.gz
+I|18:12:02:064|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000003_Stream-k.txt to /data/aplogd/Boot-0000000007_Set-0000000003_Stream-k.txt.gz
+I|18:12:02:431|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000003_Stream-c.txt to /data/aplogd/Boot-0000000007_Set-0000000003_Stream-c.txt.gz
+I|18:12:02:434|   513|   830|              ArchivalThread.cpp| 287| Searching for sets over quota
+I|19:43:33:998|   513|   513|                   OutputMgr.cpp| 351| Hit max set size 10485760 with 10486765
+I|19:43:34:002|   513|   513|              ArchivalThread.cpp| 100| Creating ArchiveSetMsg(7, 4)
+I|19:43:34:002|   513|   830|              ArchivalThread.cpp| 139| Handling msg=0xb80f5230
+I|19:43:34:002|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000004_Stream-m.txt to /data/aplogd/Boot-0000000007_Set-0000000004_Stream-m.txt.gz
+I|19:43:34:030|   513|   513|                   OutputMgr.cpp| 219| Changed set: boot=7, set=5
+I|19:43:34:632|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000004_Stream-r.txt to /data/aplogd/Boot-0000000007_Set-0000000004_Stream-r.txt.gz
+I|19:43:35:002|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000004_Stream-s.txt to /data/aplogd/Boot-0000000007_Set-0000000004_Stream-s.txt.gz
+I|19:43:35:445|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000004_Stream-e.txt to /data/aplogd/Boot-0000000007_Set-0000000004_Stream-e.txt.gz
+I|19:43:35:498|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000004_Stream-k.txt to /data/aplogd/Boot-0000000007_Set-0000000004_Stream-k.txt.gz
+I|19:43:35:709|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000004_Stream-c.txt to /data/aplogd/Boot-0000000007_Set-0000000004_Stream-c.txt.gz
+I|19:43:35:710|   513|   830|              ArchivalThread.cpp| 287| Searching for sets over quota
+I|19:57:43:200|   513|   513|                   OutputMgr.cpp| 351| Hit max set size 10485760 with 10487174
+I|19:57:43:204|   513|   513|              ArchivalThread.cpp| 100| Creating ArchiveSetMsg(7, 5)
+I|19:57:43:205|   513|   830|              ArchivalThread.cpp| 139| Handling msg=0xb80f5230
+I|19:57:43:205|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000005_Stream-m.txt to /data/aplogd/Boot-0000000007_Set-0000000005_Stream-m.txt.gz
+I|19:57:43:228|   513|   513|                   OutputMgr.cpp| 219| Changed set: boot=7, set=6
+I|19:57:43:727|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000005_Stream-r.txt to /data/aplogd/Boot-0000000007_Set-0000000005_Stream-r.txt.gz
+I|19:57:44:278|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000005_Stream-s.txt to /data/aplogd/Boot-0000000007_Set-0000000005_Stream-s.txt.gz
+I|19:57:44:883|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000005_Stream-e.txt to /data/aplogd/Boot-0000000007_Set-0000000005_Stream-e.txt.gz
+I|19:57:44:939|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000005_Stream-k.txt to /data/aplogd/Boot-0000000007_Set-0000000005_Stream-k.txt.gz
+I|19:57:44:975|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000005_Stream-c.txt to /data/aplogd/Boot-0000000007_Set-0000000005_Stream-c.txt.gz
+I|19:57:44:977|   513|   830|              ArchivalThread.cpp| 287| Searching for sets over quota
+I|20:17:38:421|   513|   513|                   OutputMgr.cpp| 351| Hit max set size 10485760 with 10491265
+I|20:17:38:421|   513|   513|              ArchivalThread.cpp| 100| Creating ArchiveSetMsg(7, 6)
+I|20:17:38:422|   513|   830|              ArchivalThread.cpp| 139| Handling msg=0xb80f4c98
+I|20:17:38:422|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000006_Stream-m.txt to /data/aplogd/Boot-0000000007_Set-0000000006_Stream-m.txt.gz
+I|20:17:38:442|   513|   513|                   OutputMgr.cpp| 219| Changed set: boot=7, set=7
+I|20:17:39:028|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000006_Stream-r.txt to /data/aplogd/Boot-0000000007_Set-0000000006_Stream-r.txt.gz
+I|20:17:39:389|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000006_Stream-s.txt to /data/aplogd/Boot-0000000007_Set-0000000006_Stream-s.txt.gz
+I|20:17:39:770|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000006_Stream-e.txt to /data/aplogd/Boot-0000000007_Set-0000000006_Stream-e.txt.gz
+I|20:17:39:815|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000006_Stream-k.txt to /data/aplogd/Boot-0000000007_Set-0000000006_Stream-k.txt.gz
+I|20:17:39:873|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000006_Stream-c.txt to /data/aplogd/Boot-0000000007_Set-0000000006_Stream-c.txt.gz
+I|20:17:39:875|   513|   830|              ArchivalThread.cpp| 287| Searching for sets over quota
+I|20:32:13:572|   513|   513|                   OutputMgr.cpp| 351| Hit max set size 10485760 with 10490665
+I|20:32:13:580|   513|   513|              ArchivalThread.cpp| 100| Creating ArchiveSetMsg(7, 7)
+I|20:32:13:582|   513|   830|              ArchivalThread.cpp| 139| Handling msg=0xb80f4c98
+I|20:32:13:582|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000007_Stream-m.txt to /data/aplogd/Boot-0000000007_Set-0000000007_Stream-m.txt.gz
+I|20:32:13:657|   513|   513|                   OutputMgr.cpp| 219| Changed set: boot=7, set=8
+I|20:32:15:560|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000007_Stream-r.txt to /data/aplogd/Boot-0000000007_Set-0000000007_Stream-r.txt.gz
+I|20:32:16:309|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000007_Stream-s.txt to /data/aplogd/Boot-0000000007_Set-0000000007_Stream-s.txt.gz
+I|20:32:17:999|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000007_Stream-e.txt to /data/aplogd/Boot-0000000007_Set-0000000007_Stream-e.txt.gz
+I|20:32:18:187|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000007_Stream-k.txt to /data/aplogd/Boot-0000000007_Set-0000000007_Stream-k.txt.gz
+I|20:32:18:281|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000007_Stream-c.txt to /data/aplogd/Boot-0000000007_Set-0000000007_Stream-c.txt.gz
+I|20:32:18:293|   513|   830|              ArchivalThread.cpp| 287| Searching for sets over quota
+I|21:07:44:230|   513|   513|                   OutputMgr.cpp| 351| Hit max set size 10485760 with 10486541
+I|21:07:44:257|   513|   513|              ArchivalThread.cpp| 100| Creating ArchiveSetMsg(7, 8)
+I|21:07:44:259|   513|   830|              ArchivalThread.cpp| 139| Handling msg=0xb80f4c98
+I|21:07:44:260|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000008_Stream-m.txt to /data/aplogd/Boot-0000000007_Set-0000000008_Stream-m.txt.gz
+I|21:07:44:307|   513|   513|                   OutputMgr.cpp| 219| Changed set: boot=7, set=9
+I|21:07:46:664|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000008_Stream-r.txt to /data/aplogd/Boot-0000000007_Set-0000000008_Stream-r.txt.gz
+I|21:07:48:071|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000008_Stream-s.txt to /data/aplogd/Boot-0000000007_Set-0000000008_Stream-s.txt.gz
+I|21:07:49:488|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000008_Stream-e.txt to /data/aplogd/Boot-0000000007_Set-0000000008_Stream-e.txt.gz
+I|21:07:49:588|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000008_Stream-k.txt to /data/aplogd/Boot-0000000007_Set-0000000008_Stream-k.txt.gz
+I|21:07:49:624|   513|   830|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000008_Stream-c.txt to /data/aplogd/Boot-0000000007_Set-0000000008_Stream-c.txt.gz
+I|21:07:49:627|   513|   830|              ArchivalThread.cpp| 287| Searching for sets over quota
+pid=577
+I|09:43:22:238|   577|   577|                    UserOpts.cpp|  92| Getting args from /system/etc/aplogd/default.opts: --disk=200
+I|09:43:22:239|   577|   577|                    UserOpts.cpp|  46| collect=mrsekc
+I|09:43:22:239|   577|   577|                    UserOpts.cpp|  47| format=threadtime
+I|09:43:22:239|   577|   577|                    UserOpts.cpp|  48| size=10
+I|09:43:22:239|   577|   577|                    UserOpts.cpp|  49| ext=0
+I|09:43:22:239|   577|   577|                    UserOpts.cpp|  50| nice=0
+I|09:43:22:239|   577|   577|                    UserOpts.cpp|  51| disk=200
+I|09:43:22:239|   577|   577|         AndroidStreamReader.cpp|  52| Creating buffer for main
+I|09:43:22:239|   577|   577|         AndroidStreamReader.cpp|  52| Creating buffer for radio
+I|09:43:22:239|   577|   577|         AndroidStreamReader.cpp|  52| Creating buffer for events
+I|09:43:22:239|   577|   577|         AndroidStreamReader.cpp|  52| Creating buffer for system
+I|09:43:22:239|   577|   577|         AndroidStreamReader.cpp|  52| Creating buffer for crash
+I|09:43:22:239|   577|   577|         AndroidStreamReader.cpp|  52| Creating buffer for kernel
+I|09:43:22:240|   577|   577|         AndroidStreamReader.cpp| 123| Opening logdr socket
+I|09:43:22:240|   577|   577|         AndroidStreamReader.cpp| 159| Sending "stream lids=0,1,2,3,4,5" to logdr
+I|09:43:22:247|   577|   577|                   OutputMgr.cpp| 120| Detected new boot: adf3cd03-6cf9-4d4b-968f-601735af4957
+I|09:43:22:331|   577|   577|              ArchivalThread.cpp|  47| Caching snapshot of /data/aplogd
+I|09:43:22:724|   577|   577|              ArchivalThread.cpp|  76| Starting ArchivalThread
+I|09:43:22:724|   577|   577|                   OutputMgr.cpp|  46| Changing set due to daemon startup
+I|09:43:22:726|   577|   577|                   OutputMgr.cpp| 219| Changed set: boot=8, set=1
+I|09:43:22:726|   577|   577|                      aplogd.cpp| 258| Starting main I/O loop
+I|09:43:22:727|   577|   843|              ArchivalThread.cpp| 123| ArchivalThread is running
+I|09:43:22:728|   577|   843|              ArchivalThread.cpp| 254| Searching for uncompressed files to compress
+I|09:43:22:728|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000009_Stream-m.txt to /data/aplogd/Boot-0000000007_Set-0000000009_Stream-m.txt.gz
+I|09:43:24:645|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000009_Stream-r.txt to /data/aplogd/Boot-0000000007_Set-0000000009_Stream-r.txt.gz
+I|09:43:24:927|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000009_Stream-s.txt to /data/aplogd/Boot-0000000007_Set-0000000009_Stream-s.txt.gz
+I|09:43:25:160|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000009_Stream-e.txt to /data/aplogd/Boot-0000000007_Set-0000000009_Stream-e.txt.gz
+I|09:43:25:191|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000009_Stream-k.txt to /data/aplogd/Boot-0000000007_Set-0000000009_Stream-k.txt.gz
+I|09:43:25:203|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000007_Set-0000000009_Stream-c.txt to /data/aplogd/Boot-0000000007_Set-0000000009_Stream-c.txt.gz
+I|09:43:25:207|   577|   843|              ArchivalThread.cpp| 287| Searching for sets over quota
+I|09:43:26:125|   577|   843|              ArchivalThread.cpp| 131| Entering main archival loop
+I|10:18:55:323|   577|   577|                   OutputMgr.cpp| 351| Hit max set size 10485760 with 10491156
+I|10:18:55:327|   577|   577|              ArchivalThread.cpp| 100| Creating ArchiveSetMsg(8, 1)
+I|10:18:55:327|   577|   843|              ArchivalThread.cpp| 139| Handling msg=0xb790f1c8
+I|10:18:55:327|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000008_Set-0000000001_Stream-m.txt to /data/aplogd/Boot-0000000008_Set-0000000001_Stream-m.txt.gz
+I|10:18:55:346|   577|   577|                   OutputMgr.cpp| 219| Changed set: boot=8, set=2
+I|10:20:01:815|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000008_Set-0000000001_Stream-r.txt to /data/aplogd/Boot-0000000008_Set-0000000001_Stream-r.txt.gz
+I|10:20:10:291|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000008_Set-0000000001_Stream-s.txt to /data/aplogd/Boot-0000000008_Set-0000000001_Stream-s.txt.gz
+I|10:20:32:807|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000008_Set-0000000001_Stream-e.txt to /data/aplogd/Boot-0000000008_Set-0000000001_Stream-e.txt.gz
+I|10:20:32:837|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000008_Set-0000000001_Stream-k.txt to /data/aplogd/Boot-0000000008_Set-0000000001_Stream-k.txt.gz
+I|10:21:14:704|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000008_Set-0000000001_Stream-c.txt to /data/aplogd/Boot-0000000008_Set-0000000001_Stream-c.txt.gz
+I|10:21:14:721|   577|   843|              ArchivalThread.cpp| 287| Searching for sets over quota
+I|10:35:44:871|   577|   577|                   OutputMgr.cpp| 351| Hit max set size 10485760 with 10486288
+I|10:35:44:878|   577|   577|              ArchivalThread.cpp| 100| Creating ArchiveSetMsg(8, 2)
+I|10:35:44:879|   577|   843|              ArchivalThread.cpp| 139| Handling msg=0xb790f1c8
+I|10:35:44:879|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000008_Set-0000000002_Stream-m.txt to /data/aplogd/Boot-0000000008_Set-0000000002_Stream-m.txt.gz
+I|10:35:44:908|   577|   577|                   OutputMgr.cpp| 219| Changed set: boot=8, set=3
+I|10:35:45:489|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000008_Set-0000000002_Stream-r.txt to /data/aplogd/Boot-0000000008_Set-0000000002_Stream-r.txt.gz
+I|10:35:45:772|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000008_Set-0000000002_Stream-s.txt to /data/aplogd/Boot-0000000008_Set-0000000002_Stream-s.txt.gz
+I|10:35:46:233|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000008_Set-0000000002_Stream-e.txt to /data/aplogd/Boot-0000000008_Set-0000000002_Stream-e.txt.gz
+I|10:35:46:297|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000008_Set-0000000002_Stream-k.txt to /data/aplogd/Boot-0000000008_Set-0000000002_Stream-k.txt.gz
+I|10:35:46:342|   577|   843|              ArchivalThread.cpp| 330| Compressing /data/aplogd/Boot-0000000008_Set-0000000002_Stream-c.txt to /data/aplogd/Boot-0000000008_Set-0000000002_Stream-c.txt.gz
+I|10:35:46:344|   577|   843|              ArchivalThread.cpp| 287| Searching for sets over quota

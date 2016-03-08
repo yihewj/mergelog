@@ -1,0 +1,21 @@
+=aplogcat= Dumping /data/aplogd/Boot-0000000008_Set-0000000001_Stream-e.txt.gz to ./aplogcat-events.txt
+03-30 01:31:56.811   233   233 I auditd  : type=1403 audit(0.0:2): policy loaded auid=4294967295 ses=4294967295
+03-30 01:31:56.811   233   233 I auditd  : type=1404 audit(0.0:3): enforcing=1 old_enforcing=0 auid=4294967295 ses=4294967295
+12-17 09:43:24.904   420   420 I boot_progress_start: 9771
+12-17 09:43:25.979   420   420 I boot_progress_preload_start: 10845
+12-17 09:43:29.440   420   420 I boot_progress_preload_end: 14306
+12-17 09:43:29.692  1937  1937 I boot_progress_system_run: 14557
+12-17 09:43:30.187   390  1959 I dc_mmlog: e=play,c=video/mp4,fs=7519282,pt=0,vm=video/avc,vw=720,vh=1280,vb=0,vd=15000000
+12-17 09:43:30.278  1937  1937 I boot_progress_pms_start: 15144
+12-17 09:43:31.073  1937  1937 I boot_progress_pms_system_scan_start: 15940
+12-17 09:43:37.879  1937  1937 I boot_progress_pms_data_scan_start: 22745
+12-17 09:43:43.088  1937  1937 I boot_progress_pms_scan_end: 27954
+12-17 09:43:43.288  1937  1937 I boot_progress_pms_ready: 28154
+12-17 09:43:43.821  1937  1949 I battery_status: [3,2,1,0,Li-ion]
+12-17 10:50:37.476 25065 25065 I am_on_resume_called: [0,com.google.android.talk.SigningInActivity]
+12-17 10:50:37.504  1937  3263 I notification_visibility: [0|com.android.providers.downloads|0|1:com.android.vending|10016,0,139982,93,0,2]
+12-17 10:50:37.505  1937  3263 I notification_visibility: [0|com.google.android.talk|1|null|10078,0,377790,377790,0,0]
+12-17 10:50:37.505  1937  3263 I notification_visibility: [0|com.motorola.tools.batterytracer|2131165197|null|1000,0,145251,95908,0,1]
+
+=aplogcat= Finished dumping /data/aplogd/Boot-0000000008_Set-0000000003_Stream-e.txt
+
