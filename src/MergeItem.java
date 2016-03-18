@@ -1,6 +1,6 @@
 
 /**
- * Created by a20023 on 12/18/2015.
+ * Created by Yi He on 12/18/2015.
  */
 public class MergeItem implements Comparable<MergeItem>{
     int fileInd;
@@ -8,6 +8,8 @@ public class MergeItem implements Comparable<MergeItem>{
     String data;
     long index;
     public String debugInfo;
+    int pid;
+    int tid;
 
     MergeItem(int ind, long t, String line, long no) {
         fileInd = ind;
