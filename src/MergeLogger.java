@@ -21,7 +21,25 @@ public class MergeLogger {
     private int mergeFileNum = 0;
     private boolean DEBUG = false;
 
-    public static long getLogTime(String line) {
+    public LogLine convertLog(String line) {
+        LogLine logLine = new LogLine();
+        logLine.time = INVALIDTIME;
+
+        String logPattern = "^([0-9]{2})-([0-9]{2}) ([0-9]{2}):([0-9]{2}):([0-9]{2}).([0-9]{3})\\s*([0-9]{1,5})\\s*([0-9]{1,5})\\s{1,}(\\p{Upper}{1})\\s{1,}(\\w*)\\s*:(.*?)$";
+        Matcher match = Pattern.compile(logPattern).matcher(line);
+        if (match.find()) {
+            String timestamp = match.group(1) + match.group(2) + match.group(3) + match.group(4) + match.group(5) + match.group(6);
+            logLine.time = Long.parseLong(timestamp);
+            logLine.pid = Integer.parseInt(match.group(7));
+            logLine.tid = Integer.parseInt(match.group(8));
+            logLine.logTag = match.group(10);
+            logLine.logContent = match.group(11);
+        }
+
+        return logLine;
+    }
+
+ /*   public long getLogTime(String line) {
         long time = INVALIDTIME;
         String timePattern = "^([0-9]{2})-([0-9]{2}) ([0-9]{2}):([0-9]{2}):([0-9]{2}).([0-9]{3}) (([0-9]*))";
         Matcher match = Pattern.compile(timePattern).matcher(line);
@@ -30,7 +48,12 @@ public class MergeLogger {
             time = Long.parseLong(timestamp);
         }
         return time;
-    }
+    }*/
+
+  /*  public long getLogTime(String line) {
+        LogLine data = convertLog(line);
+        return  data.time;
+    }*/
 
     private int InitQueWithLog(int lineOfFile) throws IOException {
         int readLineNum = 0;
@@ -44,10 +67,12 @@ public class MergeLogger {
                     continue;
                 }
                 lineIndex++;
-                long logTime = getLogTime(line);
+                LogLine data = convertLog(line);
+                long logTime =  data.time;
                 if (logTime == INVALIDTIME) {
                     continue;
                 }
+
                 MergeItem item = new MergeItem(fileInd, logTime, line, lineIndex);
                 mqueue.Add(item);
                 readLineNum++;
@@ -57,6 +82,9 @@ public class MergeLogger {
         return readLineNum;
     }
 
+    //am_proc_start
+    //am_proc_died
+
     private int ReadLogFromFile(int fileID, int lineNum) throws IOException {
         int readLineNum = 0;
 
@@ -65,11 +93,13 @@ public class MergeLogger {
             if (line == null) {
                 continue;
             }
-            long logTime = getLogTime(line);
+            LogLine data = convertLog(line);
+            long logTime =  data.time;
             if (logTime == INVALIDTIME) {
                 i--;
                 continue;
             }
+
             MergeItem item = new MergeItem(fileID, logTime, line, lineIndex);
             int res = mqueue.Add(item);
             if (MergeQueue.NEWQUEUE == res) {
